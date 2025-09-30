@@ -1,4 +1,4 @@
-# protopanotakana
+# ideobank
 
 ## How to cite
 
@@ -14,34 +14,28 @@ This dataset is licensed under a CC-BY-4.0 license
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 80%](https://img.shields.io/badge/Concepticon-80%25-yellow.svg "Concepticon: 80%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 63%](https://img.shields.io/badge/BIPA-63%25-orange.svg "BIPA: 63%")
+![CLTS SoundClass: 63%](https://img.shields.io/badge/CLTS%20SoundClass-63%25-orange.svg "CLTS SoundClass: 63%")
 
-- **Varieties:** 32 (linked to 32 different Glottocodes)
-- **Concepts:** 1,078 (linked to 723 different Concepticon concept sets)
-- **Lexemes:** 18,708
-- **Sources:** 0
-- **Synonymy:** 1.35
-- **Cognacy:** 18,708 cognates in 6,818 cognate sets (4,659 singletons)
-- **Cognate Diversity:** 0.33
+- **Varieties:** 55 (linked to 55 different Glottocodes)
+- **Concepts:** 2,528 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 2,859
+- **Sources:** 69
+- **Synonymy:** 1.04
 - **Invalid lexemes:** 0
-- **Tokens:** 99,391
-- **Segments:** 264 (0 BIPA errors, 0 CLTS sound class errors, 262 CLTS modified)
-- **Inventory size (avg):** 39.16
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 18708/18708 (100.00%)
+- **Tokens:** 12,928
+- **Segments:** 189 (70 BIPA errors, 70 CLTS sound class errors, 119 CLTS modified)
+- **Inventory size (avg):** 19.82
 
 # Contributors
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Frederic Blum | @FredericBlum | creator | Author |
+Frederic Blum | @FredericBlum | CLDF conversion | Author |
+Jaime Montoya | @jaimerafaelms | data collection | Author |
+Roberto Zariquiey | | creator, data collection | Author |
 
 
 

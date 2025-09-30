@@ -108,7 +108,7 @@ class Dataset(BaseDataset):
                     Value=form,
                     Reduplication=reduplication,
                     ReduplicationNotes=reduplication_note,
-                    Source=source,
+                    Source=' '.join(source),
                     Page=page,
                     # Segments=tokens,
                     Comment=notes,
