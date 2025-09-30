@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/lexibank/ideobank",
             "rdf:type": "prov:Entity",
-            "dc:created": "87a0988",
+            "dc:created": "13e5a10",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2859,
+            "dc:extent": 3170,
             "tableSchema": {
                 "columns": [
                     {
@@ -233,7 +233,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 2528,
+            "dc:extent": 2784,
             "tableSchema": {
                 "columns": [
                     {

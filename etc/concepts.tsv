@@ -6,7 +6,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 5	nothing	nada				Sense perception
 6	snore	roncar				The body
 7	sudden noise	ruido repentino				Sense perception
-8	cannibal sounds	sonidos caníbales		sonido típico de los "huríhuri", caníbales míticos"		Religion and belief
+8	cannibal sounds	sonidos caníbales		sonido típico de los huríhuri, caníbales míticos		Religion and belief
 9	something is pressed into a soft surface	algo se presiona contra una superficie suave				Basic actions and technology
 10	bark	ladrar				Animals
 11	to pierce the ground	perforar el suelo				Basic actions and technology
@@ -35,14 +35,14 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 34	grabbing something	agarrar algo				Basic actions and technology
 35	entering (house, cave etc) [sic]	entrar (a una casa, a una cueva, etc.)				Motion
 36	a part snapping off	quebrarse una parte				Basic actions and technology
-37	tells the listener to "pay attention"	indica al oyente que "preste atención"		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word"."		OTHER
+37	tells the listener to pay attention	indica al oyente que preste atención		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama sound symbolic word.		OTHER
 38	sudden absence / sudden action	ausencia repentina / acción repentina				Motion
 39	describes a distance for throwing an object	describe la distancia de lanzar un objeto				Motion
 40	the sound of an object landing heavily into the water	el sonido de un objeto cayendo pesadamente en el agua				Motion
 41	crawling away	arrastrarse				Basic actions and technology
-42	expression denoting something is abput to happen	expresión que denota que algo está a punto de pasar		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word"."		OTHER
-43	expression of glee asking listeners to pay attention to the leading character in the story, who is about to outwit the opressor	expresión de júbilo pidiéndole a los oyentes que presten atención al personaje principal del cuento		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word"."		OTHER
-44	empathising expression "poor one"	expresión empática "pobrecito"		JMS: No parece ideófono, sino interjección.		OTHER
+42	expression denoting something is abput to happen	expresión que denota que algo está a punto de pasar		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama sound symbolic word.		OTHER
+43	expression of glee asking listeners to pay attention to the leading character in the story, who is about to outwit the opressor	expresión de júbilo pidiéndole a los oyentes que presten atención al personaje principal del cuento		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama sound symbolic word.		OTHER
+44	empathising expression poor one	expresión empática pobrecito		JMS: No parece ideófono, sino interjección.		OTHER
 45	an object or someone falling slowly onto the ground	algo o alguien cayendo lentamente al suelo				Motion
 46	the flying of a huge bird such as the eagle	el vuelo de un ave grande como por ejemplo el águila				Animals
 47	the clumsy dancing of a huge person such a a giant	el baile torpe de una persona grande como por ejemplo un gigante				Basic actions and technology
@@ -117,8 +117,8 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 116	burning (fire)	arder (un fuego)		Light, fire		The physical world
 117	blinking light	luz parpadeante		Light, fire		The physical world
 118	brilliance (of the sun)	brillo (del sol)		Light, fire		The physical world
-119	leaping like a deer	brincar como un venado		Movement. Marcado como "non-conventionalized item" por la autora."		Animals
-120	a woman walking in high heels	una mujer caminando con tacones altos		Movement. Marcado como "non-conventionalized item" por la autora."		Clothing and grooming
+119	leaping like a deer	brincar como un venado		Movement. Marcado como non-conventionalized item por la autora.		Animals
+120	a woman walking in high heels	una mujer caminando con tacones altos		Movement. Marcado como non-conventionalized item por la autora.		Clothing and grooming
 121	walking or dancing while twisting at the hips	caminar o bailar girando las caderas		Movement		Motion
 122	moving in a single straight line, e.g., the flight of a meteor	moverse en línea recta, p. ej., el vuelo de un meteorito		Movement		Motion
 123	a flock of birds flying in one direction	una bandada de aves volando en una dirección		Movement		Animals
@@ -133,9 +133,9 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 132	leaping like a frog	brincar como una rana		Movement		Animals
 133	running	correr		Movement		Motion
 134	moving in a curved trajectory, e.g., a snake, a river	moverse siguiendo un trayecto curvo, p. ej., una serpiente, un río		Movement		Motion
-135	walking with bouncing breasts (about a woman)	caminar con senos que rebotan (dicho de una mujer)		Movement. Marcado como "non-conventionalized item" por la autora."		The body, Motion
+135	walking with bouncing breasts (about a woman)	caminar con senos que rebotan (dicho de una mujer)		Movement. Marcado como non-conventionalized item por la autora.		The body, Motion
 136	walking on the outside edge of the feet (about a child)	caminar sobre el borde exterior de los pies (dicho de un niño)		Movement		The body, Motion
-137	walking like a duck	caminar como un pato		Movement. Marcado como "non-conventionalized item" por la autora."		Animals
+137	walking like a duck	caminar como un pato		Movement. Marcado como non-conventionalized item por la autora.		Animals
 138	painting a face or body	pintar una cara o un cuerpo		Contact		The physical world
 139	grabbing a moving object	agarrar un objeto en movimiento		Contact		Basic actions and technology
 140	sticking a bandage, taking a picture, pressing heated leaves into the body	colocar una venda, tomar una foto, presionar hojas calientes en el cuerpo		Contact		Basic actions and technology
@@ -195,7 +195,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 194	many people talking	muchas personas hablando		Human body functions and human activities		Speech and language, Quantity
 195	sneezing	estornudar		Human body functions and human activities		The body
 196	having diarrhea	tener diarrea		Human body functions and human activities		The body
-197	having sex	tener sexo		Human body functions and human activities. Marcado como "non-conventionalized item" por la autora."		The body
+197	having sex	tener sexo		Human body functions and human activities. Marcado como non-conventionalized item por la autora.		The body
 198	men laughing	hombres riendo		Human body functions and human activities		Emotion and values
 199	women laughing	mujeres riendo		Human body functions and human activities		Emotion and values
 200	spitting saliva	escupir saliva		Human body functions and human activities		The body
@@ -336,9 +336,9 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 335	to cry	llorar				Emotion and values
 336	exclamation of pain	exclamación de dolor				Sense perception
 337	to sneeze	estornudar				The body
-338	exclamation of disgust	exclamación de asco		Marcado como "interjección". El autor distingue entre interjecciones e ideófonos propiamente dichos."		Emotion and values
+338	exclamation of disgust	exclamación de asco		Marcado como interjección. El autor distingue entre interjecciones e ideófonos propiamente dichos.		Emotion and values
 339	to conjure, to exhale smoke / to fly, to smoke	conjurar, exhalar humo / volar, fumar		Significado en narrativas / significado elicitado. Transcripción: [f:u].		Basic actions and technology
-340	sound of surprise / answer to call	sonido de sorpresa / respuesta a una llamada		Significado en narrativas / significado elicitado. Marcado como "interjección"."		Emotion and values
+340	sound of surprise / answer to call	sonido de sorpresa / respuesta a una llamada		Significado en narrativas / significado elicitado. Marcado como interjección.		Emotion and values
 341	to jump in the water / person bathing, to dive	saltar al agua / bañarse, sumergirse		Significado en narrativas / significado elicitado.		Motion
 342	jaguar swallowing a thorn / sound of animal (wolf?) [sic]	jaguar tragándose una espina / sonido de animal (¿lobo?)		Significado en narrativas / significado elicitado.		Animals
 343	sonido de jaguar / jaguar	sonido de jaguar / jaguar		Significado en narrativas / significado elicitado.		Animals
@@ -346,8 +346,8 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 345	sound of scaring away	sonido de asustar				Emotion and values
 346	to have bad luck	tener mala suerte				Emotion and values
 347	to laugh	reírse				Emotion and values
-348	exclamation "the poor one!"	exclamación "¡pobrecito!"		Marcado como "interjección"."		Emotion and values
-349	to call, exclamation "I don't know"	llamar, exclamación "no sé"		Marcado como "interjección". Transcripción: [kɔ:]."		Speech and language
+348	exclamation the poor one!	exclamación ¡pobrecito!		Marcado como interjección.		Emotion and values
+349	to call, exclamation I don't know	llamar, exclamación no sé		Marcado como interjección. Transcripción: [kɔ:].		Speech and language
 350	to swallow (something big)	tragar (algo grande)				The body, Food and drink
 351	to drink	beber				Food and drink
 352	to wash / to make a sound in the water with the hands, to wash skin or clothes	lavar / hacer sonido con las manos, para lavar piel o ropa		Significado en narrativas / significado elicitado.		Clothing and grooming
@@ -380,7 +380,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 379	to break something	romper algo				Basic actions and technology
 380	to spin cotton	hilar algodón				Clothing and grooming
 381	to drill a stone / sound of something breaking	taladrar una piedra / sonido de algo rompiéndose		Significado en narrativas / significado elicitado.		Basic actions and technology
-382	exclamation "beautiful"	exclamación "hermoso"		Marcado como "interjección"."		Emotion and values
+382	exclamation beautiful	exclamación hermoso		Marcado como interjección.		Emotion and values
 383	to tear manioc cake into pieces	partir un queque de yuca en pedazos				Food and drink, Quantity
 384	pull out plant, sweep / to grate manioc, sound of bird	sacar planta, barrer / rallar yuca, sonido de ave		Significado en narrativas / significado elicitado.		Basic actions and technology
 385	to cough	toser				The body
@@ -398,7 +398,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 397	to get inside	entrar				Motion
 398	to cool down hot liquid	enfríar líquido caliente				The physical world
 399	to fall	caerse		Transcripción: [tu:]		Motion
-400	exclamation "well done"	exclamación "bien hecho"		Marcado como "interjección"."		Emotion and values
+400	exclamation well done	exclamación bien hecho		Marcado como interjección.		Emotion and values
 401	to start running / to arrive at the ground	empezar a correr / llegar al suelo/tierra		Significado en narrativas / significado elicitado.		Motion
 402	to fart	tirarse un pedo				The body
 403	to run	correr				Motion
@@ -414,13 +414,13 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 413	a signal of joy	señal de felicidad				Emotion and values
 414	the sound of knocking	sonido de tocar, dar golpecitos				Basic actions and technology
 415	bark	ladrar		Este ideófono es un verbo.		Animals
-416	tõi, name of a small green parrot who says "tõi tõi tõi"	tõi, nombre de un lorito verde que dice "tõi tõi tõi"				Animals
-417	name of a bird who says "waipaiyo"	nombre de un ave que dice "waipayo"				Animals
+416	tõi, name of a small green parrot who says tõi tõi tõi	tõi, nombre de un lorito verde que dice tõi tõi tõi				Animals
+417	name of a bird who says waipaiyo	nombre de un ave que dice waipayo				Animals
 418	sound of toucan	sonido de tucán				Animals
 419	drops of sweat	gotas de sudor				The body
 420	hit the water	caer en el agua				Motion
 421	sound of chewing something hard	sonido de masticar algo duro				Food and drink, The body
-422	sound of a tree's leaves moving	sonido de las hojas de un árbol moviéndose		Transcripción: [áβɨ̀x] (donde "x" es un superíndice)"		Agriculture and vegetation, Motion
+422	sound of a tree's leaves moving	sonido de las hojas de un árbol moviéndose		Transcripción: [áβɨ̀x] (donde x es un superíndice)		Agriculture and vegetation, Motion
 423	movement of a child in its crib when it does not sleep well	movimiento de un bebé en su cuna cuando no puede dormir		Transcripción: [àkʲʰɛ́ˀ-ákʲʰɛ̀]		Motion
 424	doing one thing after another	hacer una cosa después de otra		Transcripción: [kʰàmá-kʰámà]		OTHER
 425	digging up the ground	cavar en la tierra		Trancripción: [kʰàt͡ʃɯ́-kʰát͡ʃɯ̀]		Basic actions and technology
@@ -436,7 +436,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 435	back and forth	de ida y vuelta, de un lado a otro				Motion
 436	immediately	inmediatamente				Time
 437	dividing into small pieces	dividir en pedazos pequeños				Basic actions and technology
-438	dividing into pieces (larger than "dege"), dividing horizontally"	dividir en pedazos (más grandes que "dege"), dividir horizontalmente"				Basic actions and technology
+438	dividing into pieces (larger than dege), dividing horizontally	dividir en pedazos (más grandes que dege), dividir horizontalmente				Basic actions and technology
 439	directly, quickly	directamente, rápido				Motion
 440	tightly	apretado				Basic actions and technology
 441	a small amount more or less	una catidad pequeña más o menos				Quantity
@@ -452,9 +452,9 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 451	fall down	caerse				Motion
 452	something big like a tree falls down	algo grande como un árbol se cae				Motion
 453	sound of something big flying	sonido de algo grande volando				Motion
-454	singing of "bëi bëi" bird"	canto de ave llamada "bëi bëi"				Animals
-455	singing of "kana kana" bird"	canto de ave llamada "kana kana"				Animals
-456	singing of "pux pux" bird"	canto de ave llamaba "pux pux"				Animals
+454	singing of bëi bëi bird	canto de ave llamada bëi bëi				Animals
+455	singing of kana kana bird	canto de ave llamada kana kana				Animals
+456	singing of pux pux bird	canto de ave llamaba pux pux				Animals
 457	hoping ambulation of vultures	gallinazos deambulando dando saltos				Animals
 458	when birds lift their wings for flight but then freeze	cuando un ave levanta sus alas para volar pero luego se queda inmóvil				Animals
 459	turning off of lights or motors	motor o luz apagándose				Basic actions and technology
@@ -517,7 +517,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 516		sonido del corte que se asienta				Basic actions and technology
 517		sonido de corte				Basic actions and technology
 518		trac, trac, sonido que se produce al cortar				Basic actions and technology
-519		sonido "pon" al caer"				Motion
+519		sonido pon al caer				Motion
 520		sonido de patada				Basic actions and technology
 521		sonido al arrojar algo				Motion
 522		ruido motor				Basic actions and technology
@@ -652,9 +652,9 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 651	noise of a machete hitting or cutting something	sonido del machete al golpear o cortar algo				Basic actions and technology
 652	the bones of a turtle-anklebone oracle knocking against each other	los huesos de un oráculo de tobillo de tortuga chocando entre sí				Basic actions and technology
 653	an object hitting against someone	un objeto golpeando a alguien				Basic actions and technology
-654	flipping through air	aleteando en el aire		Descrito como "marginally conventionalized sound effect"		Animals
-655	hitting	golpear		Descrito como "marginally conventionalized sound effect"		Basic actions and technology
-656	hawk falling	ave cayendo		Descrito como "marginally conventionalized sound effect"		Animals
+654	flipping through air	aleteando en el aire		Descrito como marginally conventionalized sound effect		Animals
+655	hitting	golpear		Descrito como marginally conventionalized sound effect		Basic actions and technology
+656	hawk falling	ave cayendo		Descrito como marginally conventionalized sound effect		Animals
 657	thunder rumbling	trueno retumbando				The physical world
 658	a bird flying away	un ave que se va volando				Animals
 659	the eating noise/action of a fish	el sonido o la acción de comer del pez				Food and drink
@@ -745,7 +745,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 744		viajar, correr	viajar, correr			Motion
 745		gritar	gritar			Speech and language
 746		gritar	gritando			Speech and language
-747		sonido de pájaro "kyhỹn"	som do pássaro kyhỹn			Animals
+747		sonido de pájaro kyhỹn	som do pássaro kyhỹn			Animals
 748		rugido de jaguar	grito de onça			Animals
 749		flecha volando	flecha voando			Warfare and hunting
 750		pisotear	conculcar			Basic actions and technology
@@ -763,11 +763,11 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 762		subir, entrar en vehículo	subir, entrar em veículo			Basic actions and technology
 763		frotar/fregar	esfregar			Basic actions and technology
 764		romper maleza/arbustos	mato quebrado			Agriculture and vegetation
-765		sonido de tejer cesta, ¡psst!	som de tecer cesta, psiu	Como pronombre, significa "a você" (a ti), ¿relación con el sentido "¡psst!"?"		Basic actions and technology
+765		sonido de tejer cesta, ¡psst!	som de tecer cesta, psiu	Como pronombre, significa a você (a ti), ¿relación con el sentido ¡psst!?		Basic actions and technology
 766		sonido de inambú (especie de ave)	som de inambu			Animals
 767		entrar en los matorrales/arbustos	entrar no mato			Agriculture and vegetation, Motion
 768		demorar	demorar			OTHER
-769		¿terminar?	aprontar	Como adverbio, significa "já" (ya)."		Time
+769		¿terminar?	aprontar	Como adverbio, significa já (ya).		Time
 770		sonido de fuego prendiéndose en el cuerpo	som de fogo pegando no corpo			Basic actions and technology
 771		lanzar	jogar			Motion
 772		abrir caña (sacar tiras de caña para tejer)	abrir palha			Agriculture and vegetation
@@ -779,7 +779,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 778		gotear	pingar			The physical world
 779		sentarse, bajar la cabeza	sentar, abaixar a cabeça			Basic actions and technology
 780		personas hablando	pessoas falando			Speech and language
-781		sonido del mono "sogisogi"	som do macaco sogisogi			Animals
+781		sonido del mono sogisogi	som do macaco sogisogi			Animals
 782		sonido de pájaro como el de la hembra de inambú (especie de ave)	som do pássaro tipo inambu galinha			Animals
 783		saltar	pular			Basic actions and technology
 784		romper maleza/arbustos	quebrar mato			Agriculture and vegetation
@@ -794,7 +794,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 793		caerse	cair			Motion
 794		sonido de ¿pájaro dorado?	som do pássaro tipo oro			Animals
 795		señal para llamar a paujil (especie de ave)	sinal para chamar mutum			Animals
-796		sonido de pájaro "opoktioky"	som do pássaro tipo opoktioky			Animals
+796		sonido de pájaro opoktioky	som do pássaro tipo opoktioky			Animals
 797		sonido de sangre saliendo del cuerpo	som de sangue saindo do corpo			The body
 798		golpear con hojas	bater com folhas			Agriculture and vegetation
 799		sonido de ave volando	som de pássaro voando			Animals
@@ -807,7 +807,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 806		cortar caña	cortar palha			Agriculture and vegetation
 807		caminar	andar			Motion
 808		sonido de cortar caña	som de cortar palha			Agriculture and vegetation
-809		sonido del mono "sogisogi"	som de macaco sogisogi			Animals
+809		sonido del mono sogisogi	som de macaco sogisogi			Animals
 810		contacto físico, llegada apresurada, envío	contato físico, chegada com pressa, enviou			Motion
 811		mirar	olhar			Sense perception
 812		juntar	ajuntar			Quantity
@@ -890,7 +890,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 889	blow	soplar				Basic actions and technology
 890	climb up	trepar (hacia arriba)				Motion
 891	punch, step with the heel	golpear, pisar con el talón/tacón				Basic actions and technology
-892	jump	saltar		Única palabra en la que aparece [t͜p̃], "a cluster of a voiceless alveolar stop plus a voiceless bilabial stop, released with a trill on both lips"		Basic actions and technology
+892	jump	saltar		Única palabra en la que aparece [t͜p̃], a cluster of a voiceless alveolar stop plus a voiceless bilabial stop, released with a trill on both lips		Basic actions and technology
 893	beat (finger on table)	dar golpes con el dedo en una mesa				Basic actions and technology
 894	cut (wood)	cortar (madera)				Basic actions and technology
 895	pull (strongly)	jalar (con fuerza)				Basic actions and technology
@@ -1130,23 +1130,23 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1129	bang! (the sharp sound of e.g. a revolver)	¡bang! (sonido intenso de p. ej. un revólver)				Basic actions and technology
 1130	flap, flutter	aletear, batir las alas				Animals
 1131	bang! (the heavy sound of e.g. a shotgun in the distance)	¡bang! (sonido pesado de p. ej. una escopeta a lo lejos)				Basic actions and technology
-1132	call of "dãrã'ku" (saracura bird)"	canto de saracura (especie de ave)				Animals
-1133	call of "dwi'dwi" (tesoureiro bird)"	canto de "tesoureiro" (especie de ave)"				Animals
-1134	chant of the iriwa bird	canto del ave "iriwa"				Animals
+1132	call of daraku (saracura bird)	canto de saracura (especie de ave)				Animals
+1133	call of dwi'dwi (tesoureiro bird)	canto de tesoureiro (especie de ave)				Animals
+1134	chant of the iriwa bird	canto del ave iriwa				Animals
 1135	pf! (the blowing sound of animals like the wild pig and the ant-eater)	el sonido de soplido de animales como el cerdo salvaje y el oso hormiguero				Animals
-1136	call of "ka'kau" (carrion bird)"	canto de ave de carroña				Animals
+1136	call of ka'kau (carrion bird)	canto de ave de carroña				Animals
 1137	sound of a snake rushing through the leaves	sonido de una serpiente escabulléndose a través de las hojas				Animals
 1138	cock-a-doodle-doo (crowing cock)	quiquiriquí (gallo que canta)				Animals
 1139	bang! (the sharp sound of e.g. hitting someone with a stick, shooting a revolver, etc.)	¡bang! (el sonido intenso de p. ej. golpear a alguien con un palo, disparar un revólver, etc.)				Basic actions and technology
 1140	splash! (sound of plunging into water)	sonido de zambullirse en el agua				Motion
 1141	splash! (the sound of a big stone being thrown into the water)	sonido de piedra grande siendo arrojada al agua				Motion
-1142	sound of the "twãtsysi'kjɛ" bird"	sonido del ave "twãtsysi'kjɛ"				Animals
+1142	sound of the twatsysi'kjɛ bird	sonido del ave twãtsysi'kjɛ				Animals
 1143	sound of a very large rock falling into the river	sonido de una roca muy grande cayendo al río				Motion
 1144	the whining sound of a wild piglet	el lloriqueo de una cría de cerdo salvaje				Animals
 1145	the sound of rippling water	sonido del agua con ondas/olas				The physical world
 1146	crushing of leaves (the sound of leaves on the ground when walking on them)	aplastar hojas (el sonido de las hojas del suelo cuando se camina sobre ellas)				Agriculture and vegetation
 1147	sound of a grasshopper	sonido del grillo				Animals
-1148	call of "uki'ri" (little tweeting bird species)"	canto del "uki'ri" (especie de pájaro cantor pequeño)"				Animals
+1148	call of uki'ri (little tweeting bird species)	canto del uki'ri (especie de pájaro cantor pequeño)				Animals
 1149	to fall	caer				Motion
 1150	to sit	sentarse				Motion
 1151	to shoot gun	disparar arma de fuego				Warfare and hunting
@@ -1162,8 +1162,8 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1161	cutting with a knife	cortar con cuchillo				Basic actions and technology
 1162	cutting with an axe	cortar con hacha				Basic actions and technology
 1163	the action of beating something with a hard outer layer, such as a coconut	la acción de golpear algo con cuierta exterior dura, como un coco				Basic actions and technology
-1164	noises for scattering	sonidos de dispersar [en el ejemplo, frijoles]		Marcado como "non-conventionalized"."		Motion
-1165	throwing down	botar, lanzar hacia abajo		Marcado como "non-conventionalized"."		Motion
+1164	noises for scattering	sonidos de dispersar [en el ejemplo, frijoles]		Marcado como non-conventionalized.		Motion
+1165	throwing down	botar, lanzar hacia abajo		Marcado como non-conventionalized.		Motion
 1166	cracking	romperse desquebrajándose				Basic actions and technology
 1167	breaking	golpear				Basic actions and technology
 1168	water dripping	agua goteando				The physical world
@@ -1171,10 +1171,10 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1170	imitating a bat sound	imitando el sonido de un murciélago				Animals
 1171	bang, bang, bang! (knocking the door)	toc, toc, toc (golpeando la puerta)				Basic actions and technology
 1172	wiggle, wiggle (worm crawling)	arrastrándose como gusano				Animals
-1173	sound made by tapir	sonido hecho por el tapir		Este ideófono es seguido inmediatamente por el auxiliar "niki"."		Animals
-1174	sound made by water snake or canoe being pulled along	sonido hecho por serpiente acuática o por canoa que es arrastrada		Este ideófono es seguido inmediatamente por el auxiliar "niki"."		Motion
-1175	something hitting surface of water	algo que golpea la superficie del agua		Este ideófono es seguido inmediatamente por el auxiliar "niki"."		Motion
-1176	sound of axe chopping wood	sonido del hacha cortando madera		Este ideófono es seguido inmediatamente por el auxiliar "niki"."		Basic actions and technology
+1173	sound made by tapir	sonido hecho por el tapir		Este ideófono es seguido inmediatamente por el auxiliar niki.		Animals
+1174	sound made by water snake or canoe being pulled along	sonido hecho por serpiente acuática o por canoa que es arrastrada		Este ideófono es seguido inmediatamente por el auxiliar niki.		Motion
+1175	something hitting surface of water	algo que golpea la superficie del agua		Este ideófono es seguido inmediatamente por el auxiliar niki.		Motion
+1176	sound of axe chopping wood	sonido del hacha cortando madera		Este ideófono es seguido inmediatamente por el auxiliar niki.		Basic actions and technology
 1177	disappear from sight	desaparecer de la vista				Sense perception
 1178	silent, empty; nothing!	silencio, vacío, ¡nada!				OTHER
 1179	arrow falling	flecha cayendo				Warfare and hunting
@@ -1363,7 +1363,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1362	throw onto surface	lanzar a una superficie				Motion
 1363	flexible, floppy object moving in the wind	objeto flexible y blando moviéndose en el viento				Sense perception
 1364	completeness, entirely	completitud, enteramente				OTHER
-1365	fall, mostly after being killed (also if killed by a curse over a distance, the moment the curse “hits” them, they fall dead turu)	caer, casi siempre después de haber sido matado (también si ha sido matado por una maldición a distancia, en el momento en que la maldición los "golpea", caen muertos, ¡turu!)"				Warfare and hunting
+1365	fall, mostly after being killed (also if killed by a curse over a distance, the moment the curse “hits” them, they fall dead turu)	caer, casi siempre después de haber sido matado (también si ha sido matado por una maldición a distancia, en el momento en que la maldición los golpea, caen muertos, ¡turu!)				Warfare and hunting
 1366	flap flap (flying through air)	aletear al volar por el aire				Animals
 1367	silence	silencio				Sense perception
 1368	disgusting/dirty	asqueroso/sucio		tactile sensations or adjectival notions		Sense perception
@@ -1405,17 +1405,17 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1404	spit	escupitajo		human emissions (of sound)		The body
 1405	chattering teeth	dientes que castañean		human emissions (of sound)		The body
 1406	sound of happiness	sonido de felicidad		human emissions (of sound)		Emotion and values
-1407	sound of frog tsonpi	sonido de rana "tsonpi"		Animal Emissions/movement		Animals
-1408	sound of bird sowi	sonido de ave "sowi"		Animal Emissions/movement		Animals
-1409	sound of small frog kikika	sonido de rana pequeña "kikika"		Animal Emissions/movement		Animals
+1407	sound of frog tsonpi	sonido de rana tsonpi		Animal Emissions/movement		Animals
+1408	sound of bird sowi	sonido de ave sowi		Animal Emissions/movement		Animals
+1409	sound of small frog kikika	sonido de rana pequeña kikika		Animal Emissions/movement		Animals
 1410	sound of a beetle flying	sonido de escarabajo volando		Animal Emissions/movement		Animals
-1411	sound of hedgehog bobo	sonido de erizo "bobo"		Animal Emissions/movement		Animals
+1411	sound of hedgehog bobo	sonido de erizo bobo		Animal Emissions/movement		Animals
 1412	yelp of dog	chillido de dolor de perro		Animal Emissions/movement		Animals
 1413	bark of small dog	ladrido de perro pequeño		Animal Emissions/movement		Animals
-1414	sound of bird corralera	sonido de ave "corralera"		Animal Emissions/movement		Animals
-1415	sound of wild pigs para	sonido de cerdo salvaje "para"		Animal Emissions/movement		Animals
+1414	sound of bird corralera	sonido de ave corralera		Animal Emissions/movement		Animals
+1415	sound of wild pigs para	sonido de cerdo salvaje para		Animal Emissions/movement		Animals
 1416	sound of angry wild pig	sonido de cerdo salvaje enfurecido		Animal Emissions/movement		Animals
-1417	sound of wild turkey ele	sonido de pavo salvaje "ele"		Animal Emissions/movement		Animals
+1417	sound of wild turkey ele	sonido de pavo salvaje ele		Animal Emissions/movement		Animals
 1418	movement of lightening bug	movimiento de luciérnaga		Animal Emissions/movement		Animals
 1419	sound of small animal jumping from branch to branch	sonido de animal pequeño saltando de rama en rama		Animal Emissions/movement		Animals
 1420	sound of small animal rustling in leaves	sonido de animal pequeño moviéndose entre las hojas		Animal Emissions/movement		Animals
@@ -1505,7 +1505,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1504	falling down after sliding	caerse después de resbalar				Motion
 1505	applying magic	aplicar magia				Religion and belief
 1506	child crying	niño/a llorando				Emotion and values
-1507	firing of gun	disparo de arma de fuego		[T]he forms vary somewhat from speaker to speaker. There does not seem to be consistency in reproducing the sounds suggested by a particular event or thing"		Warfare and hunting
+1507	firing of gun	disparo de arma de fuego		[T]he forms vary somewhat from speaker to speaker. There does not seem to be consistency in reproducing the sounds suggested by a particular event or thing		Warfare and hunting
 1508	thumping	golpear				Basic actions and technology
 1509	howling	aullar				Animals
 1510	banging	tocar/golpear (p. ej., una puerta)				Basic actions and technology
@@ -1523,7 +1523,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1522	slip loose	¿soltarse/desprenderse?				Basic actions and technology
 1523	lie on ground	yacer en el suelo				Spatial relations
 1524	to go in a line	ir en fila				Spatial relations
-1525	up	hacia arriba		Se repite en el ejemplo: "say, say, say, say [...]"."		Motion
+1525	up	hacia arriba		Se repite en el ejemplo: say, say, say, say [...].		Motion
 1526	become light	iluminarse				The physical world
 1527	become dark	oscurecerse				The physical world
 1528	set down	¿bajar algo/colocar algo abajo?				Motion
@@ -1828,13 +1828,13 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1827		voz del pájaro carpintero cuando anuncia la presencia de una serpiente				Animals
 1828		estar adormecida o entumecida (una extremidad)				The body
 1829		voz del ave atatao				Animals
-1830		sonido que tradicionalmente se atribuía a "katsivorerini" cuando veía a alguien, cuando se paraba en algún lugar, etc."		katsivorerini es un demonio de los cuentos tradicionales.		Religion and belief
+1830		sonido que tradicionalmente se atribuía a katsivorerini cuando veía a alguien, cuando se paraba en algún lugar, etc.		katsivorerini es un demonio de los cuentos tradicionales.		Religion and belief
 1831		castañear los dientes				The body
 1832		voz del pavo				Animals
 1833		voz del camungo (especie de ave)				Animals
 1834		voz del tucán chaenti				Animals
 1835		canto del pájaro chanchati				Animals
-1836		sonido que acompaña a la acción "chovuriatagantsi" (pasar agua por el pico, p. ej., un pato, para buscar comida)"				Animals
+1836		sonido que acompaña a la acción chovuriatagantsi (pasar agua por el pico, p. ej., un pato, para buscar comida)				Animals
 1837		señala larga distancia o el paso del tiempo				Spatial relations
 1838		acción de seguir yendo lejos (p. ej. ir flotando hasta lejos río abajo)				Motion
 1839		acción de gritar fuertemente				Speech and language
@@ -1859,7 +1859,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1858		(2) acción de ir rápidamente (p. ej. deslizándose junto con algo).				Motion
 1859		(3) canto del pájaro panari.				Animals
 1860		rugir		Mayormente se refiere al rugir del jaguar devorador de hombres		Animals
-1861		voz del demonio "segámai"				Religion and belief
+1861		voz del demonio segámai				Religion and belief
 1862		voz o gruñido fuerte del jaguar (p. ej. cuando está molesto)				Animals
 1863		ladrido de un perro				Animals
 1864		canto del pájaro kovuva				Animals
@@ -2005,7 +2005,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2004		acción y sonido de toser				The body
 2005		acción violenta y brusa (generalmente repentina); moverse bruscamente				Motion
 2006		canto del pájaro togúoni				Animals
-2007		Mayormente indica acciones repetidas que se realizan rápidamente o suavamente pero con más calma o no tan bruscamente como las que indica "togn"		algunos ejemplos de tales acciones son: revolcarse de un lado al otro; beber algo rápidamente; jalar el pelo de alguien; golpear(se) con el puño o pegar con un palo; reventarse maíz cancha; sacudirse el pie.		OTHER
+2007		Mayormente indica acciones repetidas que se realizan rápidamente o suavamente pero con más calma o no tan bruscamente como las que indica togn		algunos ejemplos de tales acciones son: revolcarse de un lado al otro; beber algo rápidamente; jalar el pelo de alguien; golpear(se) con el puño o pegar con un palo; reventarse maíz cancha; sacudirse el pie.		OTHER
 2008		acción de romper(se) retoños				Agriculture and vegetation
 2009		acción de subir (p. ej. un cerro, una cuesta)				Motion
 2010		sonido del disparo de una escopeta				Warfare and hunting
@@ -2041,99 +2041,99 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2040		grito de una pucacunga molesta				Animals
 2041		gritos de los monos frailecitos al ver que uno de ellos ha sido flechado				Animals
 2042		canto de la perdiz vuónteki; sonido del juguete que lleva el mismo nombre				Animals
-2043	The sound of a spider monkey The sound of a hawk			Se puede repetir: "a a a a a a a a a", "a a"		Animals
-2044	to move by deviating from a central axis usually from lack of control			Se puede repetir: "aki aki aki aki aki"		Motion
+2043	The sound of a spider monkey The sound of a hawk			Se puede repetir: a a a a a a a a a, a a		Animals
+2044	to move by deviating from a central axis usually from lack of control			Se puede repetir: aki aki aki aki aki		Motion
 2045	it depicts the state of having something in the mouth					The body
 2046	Simulates a wide-opened mouth					The body
 2047	To be positioned with limbs extended outward					The body, Spatial relations
 2048	Movement along a trajectory					Motion
-2049	Sound of a hawk			Se puede repetir: "aw aw aw"		Animals
-2050	Depicts movement of rubbing a substance across a surface.			Se puede repetir: "awi awi awi"		Basic actions and technology
+2049	Sound of a hawk			Se puede repetir: aw aw aw		Animals
+2050	Depicts movement of rubbing a substance across a surface.			Se puede repetir: awi awi awi		Basic actions and technology
 2051	To open uncover or expose a space.					Basic actions and technology
 2052	The portending sound of a lomocha rodent					Animals
-2053	to move by stepping onto a surface			Se puede repetir: "ayta ayta ayta"		Motion
+2053	to move by stepping onto a surface			Se puede repetir: ayta ayta ayta		Motion
 2054	spreading something out, or all over a surface					Motion
 2055	to do something completely; possibly a clipped form of Spanish bastante 'enough, quite'					OTHER
 2056	An energetic bursting out of water by a freshwater dolphin					Animals
-2057	To shape something into a ball, or to move like a ball in a rolling motion, or to run in a curled up, ball-like shape			Se puede repetir: "bola bola", "bola bola bola bola"		Spatial relations, Motion
-2058	Sound of the bullukuku hawk communicating with humans			La última sílaba se repite y se extiende: "bullukuku~kuu~kuu~kuu~kuu"		Animals
-2059	The sound, movement of people pounding their feet on the ground while dancing; the sound of breaking eggshells			Se puede repetir: "chak chak chak chak chak chak chak"		Motion
+2057	To shape something into a ball, or to move like a ball in a rolling motion, or to run in a curled up, ball-like shape			Se puede repetir: bola bola, bola bola bola bola		Spatial relations, Motion
+2058	Sound of the bullukuku hawk communicating with humans			La última sílaba se repite y se extiende: bullukuku~kuu~kuu~kuu~kuu		Animals
+2059	The sound, movement of people pounding their feet on the ground while dancing; the sound of breaking eggshells			Se puede repetir: chak chak chak chak chak chak chak		Motion
 2060	The visual pattern of footprints made in mud					Basic actions and technology
-2061	The chirping of the ushpa lorito birds when they gather around ripe rulyu fruits growing on a tree			Se repite varias veces: "chal chal chal chal chal..."		Animals
-2062	The sound heard when water flows.			Se repite la última sílaba: "chalalalalala"		The physical world
+2061	The chirping of the ushpa lorito birds when they gather around ripe rulyu fruits growing on a tree			Se repite varias veces: chal chal chal chal chal...		Animals
+2062	The sound heard when water flows.			Se repite la última sílaba: chalalalalala		The physical world
 2063	The way legs attached to a body spread out from it.					The body, Spatial relations
 2064	An action or event that takes place in a mid region of a physical or conceptual space					Spatial relations
 2065	The appearance of something that is interspersed throughout a visual field, such as fruit or pods distributed all over a tree or bush; To break or be broken off of something else, often resulting in an uneven or ragged-appearing rupture, as happens when no sharp tools are used.					Spatial relations
-2066	The sound of the squirrel cuckoo, known as the chikwan bird, when it utters a warning about something bad that is about to happen			Se repite: "chi chi chi chi chi..."		Animals
-2067	A sound of the squirrel cuckoo known as the chikwang bird. This sound is validational because it is said to be uttered by the chikwan bird when it hears a person telling the truth, or sees that a person's actions are congenial with their goals			Se repite: "chik chik chik chik..."		Animals
-2068	A sound of the squirrel cuckoo known as the chikwang bird. This sound is validational because it is said to be uttered by the chikwan bird when it hears a person telling the truth, or sees that a person's actions are congenial with their goals			Se puede repetir: "chik chik"		Animals
-2069	The sound of the chikis bird.			Se puede repetir: "chikis chikis chikis"		Animals
-2070	The sound made by a squirrel cuckoo bird who may be asserting that someone is telling a lie, that some disaster is about to unfold, or the bird may itself be capable of lying insofar as it may make this sound in order to deceive a human hunter into thinking that meat is not nearby, when in fact it is			Se puede repetir: "chikwan chikwan chikwan"		Animals
-2071	The unintelligible sound of certain frogs, which is compared to the sound of people speaking a language that is not known to a listener.			Se puede repetir: "chilin chilin"		Animals
-2072	Describes the arched shape created by a rainbow			Se puede repetir: "chimba chimba chimba chimba chimba..."		The physical world
+2066	The sound of the squirrel cuckoo, known as the chikwan bird, when it utters a warning about something bad that is about to happen			Se repite: chi chi chi chi chi...		Animals
+2067	A sound of the squirrel cuckoo known as the chikwang bird. This sound is validational because it is said to be uttered by the chikwan bird when it hears a person telling the truth, or sees that a person's actions are congenial with their goals			Se repite: chik chik chik chik...		Animals
+2068	A sound of the squirrel cuckoo known as the chikwang bird. This sound is validational because it is said to be uttered by the chikwan bird when it hears a person telling the truth, or sees that a person's actions are congenial with their goals			Se puede repetir: chik chik		Animals
+2069	The sound of the chikis bird.			Se puede repetir: chikis chikis chikis		Animals
+2070	The sound made by a squirrel cuckoo bird who may be asserting that someone is telling a lie, that some disaster is about to unfold, or the bird may itself be capable of lying insofar as it may make this sound in order to deceive a human hunter into thinking that meat is not nearby, when in fact it is			Se puede repetir: chikwan chikwan chikwan		Animals
+2071	The unintelligible sound of certain frogs, which is compared to the sound of people speaking a language that is not known to a listener.			Se puede repetir: chilin chilin		Animals
+2072	Describes the arched shape created by a rainbow			Se puede repetir: chimba chimba chimba chimba chimba...		The physical world
 2073	A clinking sound resulting from metal making contact with another hard surface such as stone.					Basic actions and technology
 2074	The appearance of something sticking up in an otherwise uniform visual field					Spatial relations
-2075	The sound of an unhappy baby crying			La última sílaba se puede repetir: "chiriririri"		Emotion and values
+2075	The sound of an unhappy baby crying			La última sílaba se puede repetir: chiriririri		Emotion and values
 2076	The call of a machin trying to get attention from its human owner					Animals
 2077	the sparkling qualities of sunshine					The physical world
 2078	A sudden, complete absence of sound					Sense perception
 2079	The sound of a young kushillu monkey being provoked to cry out by human children					Animals
-2080	To cut something completely off of or apart from something else; To be completely fissured. To cease an activity.			Se puede repetir: "chyuw chyuw", "chyuw chyuw chyuw"		Basic actions and technology
+2080	To cut something completely off of or apart from something else; To be completely fissured. To cease an activity.			Se puede repetir: chyuw chyuw, chyuw chyuw chyuw		Basic actions and technology
 2081	Very clean or shiny					Sense perception
-2082	The first sound uttered by a bird as it transforms from human to bird, and also the name of that bird.			Se puede repetir: "dawa dawa dawa dawa..."		Animals
+2082	The first sound uttered by a bird as it transforms from human to bird, and also the name of that bird.			Se puede repetir: dawa dawa dawa dawa...		Animals
 2083	The act of being still and not moving or shaking					Motion
-2084	A downward movement that slides along a surface			Segunda sílaba se repite: "diriririririri"		Motion
+2084	A downward movement that slides along a surface			Segunda sílaba se repite: diriririririri		Motion
 2085	A frictional movement involving cutting or sawing					Basic actions and technology
 2086	of any action accomplished very quickly, immediately					Time
-2087	A movement of a group of entities which is inwardly directed (centripetal), rather than outwardly spreading (centripetal). Often used to describe swarming of insects around a central focus.			Se puede repetir: "dzaw dzaw dzaw dzaw dzaw..."		Motion
-2088	The movement and sound of water rising higher during a flood			Se puede repetir: "dzhas dzhas dzhas"."		The physical world
-2089	A sound made by cicadas which a tree is said to control into making, when its flowers are ready for birds to drink nectar from. The sound, then, is said to be a signal from the tree to the birds, inviting them to drink from its flowers			Se puede repetir: "dzhin dzhin"		Animals
+2087	A movement of a group of entities which is inwardly directed (centripetal), rather than outwardly spreading (centripetal). Often used to describe swarming of insects around a central focus.			Se puede repetir: dzaw dzaw dzaw dzaw dzaw...		Motion
+2088	The movement and sound of water rising higher during a flood			Se puede repetir: dzhas dzhas dzhas.		The physical world
+2089	A sound made by cicadas which a tree is said to control into making, when its flowers are ready for birds to drink nectar from. The sound, then, is said to be a signal from the tree to the birds, inviting them to drink from its flowers			Se puede repetir: dzhin dzhin		Animals
 2090	a sudden jolt of awareness or an unexpected movement					Emotion and values
-2091	A frictional sliding movement			Se puede repetir: "dzir dzir", "dzir dzir dzir dzir dzir"."		Motion
+2091	A frictional sliding movement			Se puede repetir: dzir dzir, dzir dzir dzir dzir dzir.		Motion
 2092	a sliding movement across water					Motion
 2093	The sound of a guakamaya anaconda					Animals
-2094	The song of a yaw toucan (yaw sikwanga)			Se puede repetir: "giriyaa giriyaa giriyaa"		Animals
+2094	The song of a yaw toucan (yaw sikwanga)			Se puede repetir: giriyaa giriyaa giriyaa		Animals
 2095	To appear prominently with a hat					Clothing and grooming
 2096	sad groaning of a tree falling because of being chopped					Agriculture and vegetation
-2097	A sound of laughter			Se repite: "ha ha ha", "ha ha ha ha ha..."		Emotion and values
-2098	The calling out cry of a toucan bird attempting to attract a partner			Se puede repetir: "ha ha ha ha ha..."		Animals
-2099	The sound of a Capucian monkey The sound of a dog barking			Se puede repetir: "ha ha ha ha ha..."		Animals
+2097	A sound of laughter			Se repite: ha ha ha, ha ha ha ha ha...		Emotion and values
+2098	The calling out cry of a toucan bird attempting to attract a partner			Se puede repetir: ha ha ha ha ha...		Animals
+2099	The sound of a Capucian monkey The sound of a dog barking			Se puede repetir: ha ha ha ha ha...		Animals
 2100	The sound of happy laughter					Emotion and values
-2101	Sound of dogs barking excitedly at something			Se puede repetir "haw haw haw haw"."		Animals
-2102	The sound of thunder laughing			Traducción de oración de ejemplo: "Noticing the nice hot peppers, apparently it [i.e. the thunder, JMS] laughs hihihihihihihihihi it does, becoming happy!"		The physical world
-2103	The sound someone makes as they turn into a pundzhana.			Se puede repetir: "hi hi hi hi"		Religion and belief
-2104	The sound of a forest spirit			Se puede repetir: "hir hir hir hir hir..."		Religion and belief
-2105	The sound of a jaguar			Transcrito como [m̤’ʔ m̰’ʔ m̰’ʔ m̰’ʔ m̰’ʔ m̤’ʔ], "hmm hmm hmm", "hm hm hm hm"		Animals
-2106	The sound of a forest spirit, or of a machin calling sadly, crying			Se puede repetir: "hu hu huu huu", "huu huu"."		Religion and belief, Animals
-2107	A whistling sound made by a forest spirit, or by the spirit of a deceased person, as a warning to others			Se puede repetir: "huhi huhi huhi huhi..."		Religion and belief
-2108	The sound of an alma (deceased person's spirit)			Se puede repetir: "hũhũ hũhũũ hũhũ"		Religion and belief
+2101	Sound of dogs barking excitedly at something			Se puede repetir haw haw haw haw.		Animals
+2102	The sound of thunder laughing			Traducción de oración de ejemplo: Noticing the nice hot peppers, apparently it [i.e. the thunder, JMS] laughs hihihihihihihihihi it does, becoming happy!		The physical world
+2103	The sound someone makes as they turn into a pundzhana.			Se puede repetir: hi hi hi hi		Religion and belief
+2104	The sound of a forest spirit			Se puede repetir: hir hir hir hir hir...		Religion and belief
+2105	The sound of a jaguar			Transcrito como [m̤’ʔ m̰’ʔ m̰’ʔ m̰’ʔ m̰’ʔ m̤’ʔ], hmm hmm hmm, hm hm hm hm		Animals
+2106	The sound of a forest spirit, or of a machin calling sadly, crying			Se puede repetir: hu hu huu huu, huu huu.		Religion and belief, Animals
+2107	A whistling sound made by a forest spirit, or by the spirit of a deceased person, as a warning to others			Se puede repetir: huhi huhi huhi huhi...		Religion and belief
+2108	The sound of an alma (deceased person's spirit)			Se puede repetir: hũhũ hũhũũ hũhũ		Religion and belief
 2109	The movement and appearance of whatever is hanging or dangling					Spatial relations
-2110	sound of spirit of deceased person speaking through the monkey bird			Se repite: "hʷa hʷa hʷa hʷa"."		Religion and belief
+2110	sound of spirit of deceased person speaking through the monkey bird			Se repite: hʷa hʷa hʷa hʷa.		Religion and belief
 2111	The song of the big yutu					Animals
-2112	sound of a pit viper trying to deceive a rodent			Se puede repetir: "hjaw hjaw hjaw hjaw"		Animals
-2113	The sound of a pit viper imitating the sound of a rodent for the purpose of attracting it so that it may be caught and eaten by the pit viper.			Se puede repetir: "hʲuw hʲuw hʲuw hʲuw hʲuw"		Animals
+2112	sound of a pit viper trying to deceive a rodent			Se puede repetir: hjaw hjaw hjaw hjaw		Animals
+2113	The sound of a pit viper imitating the sound of a rodent for the purpose of attracting it so that it may be caught and eaten by the pit viper.			Se puede repetir: hʲuw hʲuw hʲuw hʲuw hʲuw		Animals
 2114	To lightly score a surface. May involve cutting action as well.					Basic actions and technology
 2115	A slit-like opening, as when someone smiles					Emotion and values
 2116	Portending call of a sun hawk (indi anga)					Animals
 2117	A bodily feeling of extreme weakness that is often accompanied by a noticeable drooping posture					The body
-2118	Describes a split or fissure			Se puede repetir: " kaʎa kaʎa", "kaʎa kaʎa kaʎa kaʎa"		Basic actions and technology
+2118	Describes a split or fissure			Se puede repetir:  kaʎa kaʎa, kaʎa kaʎa kaʎa kaʎa		Basic actions and technology
 2119	the noise of the kang kwana bird					Animals
-2120	sound and movement of stepping on dried leaves, of biting down onto something crunchy, or of a thrashing movement within water			Se puede repetir: "kaw kaw kaw kaw kaw"."		Motion
-2121	The appearance of a pile of similar objects, often the result of being emptied from a container. To toss, scatter a collection of entities			Se puede repetir: "ki ki ki ki ki..."		Quantity, Motion
+2120	sound and movement of stepping on dried leaves, of biting down onto something crunchy, or of a thrashing movement within water			Se puede repetir: kaw kaw kaw kaw kaw.		Motion
+2121	The appearance of a pile of similar objects, often the result of being emptied from a container. To toss, scatter a collection of entities			Se puede repetir: ki ki ki ki ki...		Quantity, Motion
 2122	A pattern whereby a surface is divided into sections defined by lines, as for example the body of a larva					Animals
 2123	A distinctive yellow or golden color					Sense perception
-2124	A pattern of zig zag lines, or of a movement that zig zags across a surface			Se puede repetir: "kiŋgu kiŋgu", "kiŋgu-ŋ kiŋgu-ŋ kiŋgu-ŋ"		Spatial relations
+2124	A pattern of zig zag lines, or of a movement that zig zags across a surface			Se puede repetir: kiŋgu kiŋgu, kiŋgu-ŋ kiŋgu-ŋ kiŋgu-ŋ		Spatial relations
 2125	To blow on an agricultural field to ensure its productivity					Agriculture and vegetation
-2126	Sound of a guakamaya anaconda			Ejemplo: "kʰu kʰu kʰu kʰu kʰu kʰu gʷa̰a̰a̰o̰ gʷa̰a̰a̰"		Animals
-2127	To move by deviating from a central axis because of lack of control			Se puede repetir "kuki kuki kuki"		Motion
-2128	The sad sound of a bird flying by itself			Puede extenderse la última sílaba: "kukuliiiiii"."		Animals
-2129	The crying sound of a coto monkey			Se puede repetir "kumbuu kumbuu kumbuu"		Animals
+2126	Sound of a guakamaya anaconda			Ejemplo: kʰu kʰu kʰu kʰu kʰu kʰu gʷa̰a̰a̰o̰ gʷa̰a̰a̰		Animals
+2127	To move by deviating from a central axis because of lack of control			Se puede repetir kuki kuki kuki		Motion
+2128	The sad sound of a bird flying by itself			Puede extenderse la última sílaba: kukuliiiiii.		Animals
+2129	The crying sound of a coto monkey			Se puede repetir kumbuu kumbuu kumbuu		Animals
 2130	The appearance of smoke or smokiness, especially as it rises					The physical world
-2131	The sound of laughter of a mythic sacha wagra (tapir)			Se puede repetir: "kwash kwash kwash"		Religion and belief
-2132	A folding or bending movement			Se puede repetir: "lapu lapu lapu"."		Spatial relations
-2133	To insert into an enclosed space; to enter a physically bounded space or cross an obvious boundary; to move back			Se puede repetir: "lin lin lin lin lin..."		Motion
-2134	A slight splashing movement made while swimming			Se puede repetir: "lipo lipo lipo lipo"."		Motion
-2135	dried matted vegetation, or bark which loosens from a dead tree			Se puede repetir: "log log log log log log"."		Agriculture and vegetation
+2131	The sound of laughter of a mythic sacha wagra (tapir)			Se puede repetir: kwash kwash kwash		Religion and belief
+2132	A folding or bending movement			Se puede repetir: lapu lapu lapu.		Spatial relations
+2133	To insert into an enclosed space; to enter a physically bounded space or cross an obvious boundary; to move back			Se puede repetir: lin lin lin lin lin...		Motion
+2134	A slight splashing movement made while swimming			Se puede repetir: lipo lipo lipo lipo.		Motion
+2135	dried matted vegetation, or bark which loosens from a dead tree			Se puede repetir: log log log log log log.		Agriculture and vegetation
 2136	The sound of a heavy door closing.					The house
 2137	Describes a curved or bending movement. May describe the meandering of a river or path as seen from an airplane.					Motion
 2138	The extreme shininess of hair, of an animal's wet fur, or of teeth that have been dyed black with genipa, or of the surface of an eye whose pupil has rolled back into its socket					The body
@@ -2142,32 +2142,32 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2141	To hold something					Basic actions and technology
 2142	The way arms hug the body, or the way wings of a bird flap close to its body after flapping open and away from the body while flying					The body
 2143	To grab something and compress it in one's hand. To crumple or crush in the hand					Basic actions and technology
-2144	The sound of a sloth crying			Se puede repetir: "mḛma̰a̰ mḛma̰a̰ mḛma̰a̰"		Animals
-2145	To move toward something in order to sniff it			Se puede repetir: "mukti mukti mukti mukti..."		Sense perception
+2144	The sound of a sloth crying			Se puede repetir: mḛma̰a̰ mḛma̰a̰ mḛma̰a̰		Animals
+2145	To move toward something in order to sniff it			Se puede repetir: mukti mukti mukti mukti...		Sense perception
 2146	of a spotted or blotchy pattern					Sense perception
-2147	A movement or pattern that swirls repetitively			Se puede repetir: "muyu muyu", "muyu muyu muyu muyu"."		Spatial relations
+2147	A movement or pattern that swirls repetitively			Se puede repetir: muyu muyu, muyu muyu muyu muyu.		Spatial relations
 2148	The appearance of a path or of lines patterned across a surface					Spatial relations
-2149	The sound of a dreaming dog snoring			Se repite: "ow ow ow ow"		Animals
-2150	Depicts a small, quick movement which results in contact with a surface that is yielding, such as water, mud or clay. Somewhat comparable to English 'smack' or 'tap'. Such contact often results in disfigurement of surfaces. Pak also depicts a resultant configuration of something relatively soft that has fallen, such as a ripe fruit, and in this sense is comparable to English 'splat'.			Se puede repetir: "pak pak pak"		Motion
-2151	Describes a movement away from someone that is done secretly or without properly observing leave-taking conventions . Describes the way something may fall in pieces or small quantities, such as rain from the sky, tree bark from a tree. Describes random or chaotic movements of multiple entities			Se puede repetir: "palay palay palay palay"		Quantity, Motion
-2152	The cycle of flying movement of a bird. Par describes the bird's wings opening, while matso describes its wings closing as it flies			Se puede repetir: "paɾ matso paɾ matso paɾ matso"		Animals
+2149	The sound of a dreaming dog snoring			Se repite: ow ow ow ow		Animals
+2150	Depicts a small, quick movement which results in contact with a surface that is yielding, such as water, mud or clay. Somewhat comparable to English 'smack' or 'tap'. Such contact often results in disfigurement of surfaces. Pak also depicts a resultant configuration of something relatively soft that has fallen, such as a ripe fruit, and in this sense is comparable to English 'splat'.			Se puede repetir: pak pak pak		Motion
+2151	Describes a movement away from someone that is done secretly or without properly observing leave-taking conventions . Describes the way something may fall in pieces or small quantities, such as rain from the sky, tree bark from a tree. Describes random or chaotic movements of multiple entities			Se puede repetir: palay palay palay palay		Quantity, Motion
+2152	The cycle of flying movement of a bird. Par describes the bird's wings opening, while matso describes its wings closing as it flies			Se puede repetir: paɾ matso paɾ matso paɾ matso		Animals
 2153	action of opening, from verb paskana 'to open'					Basic actions and technology
-2154	The sound and movement of hitting a surface / Sound and movement of fish leaping up and falling down in a canoe			Se puede repetir: "patak patak patak patak"		Basic actions and technology
+2154	The sound and movement of hitting a surface / Sound and movement of fish leaping up and falling down in a canoe			Se puede repetir: patak patak patak patak		Basic actions and technology
 2155	Describes a sound resulting from something, typically a weighty entity, that falls and makes impact that is resonant.					Motion
 2156	to turn over and downward, as of plants that become overgrown; also said of someone whose affection turns toward someone					Spatial relations, Emotion and values
 2157	The act of shutting the eyes					The body
-2158	The sound of the kaka kwiling bird, also known as the tapya kwiling (portending kwiling), crying as a warning to people that someone in their midst is about to die			Se puede repetir "piriya piriya piriya"		Animals
-2159	The angry, warning sound of a hummingbird			Se puede repetir "pis pis pis"		Animals
-2160	The appearance and movement of something dangling in mid-air.			Se puede repetir: "pital pital pital pital pital"		Motion
+2158	The sound of the kaka kwiling bird, also known as the tapya kwiling (portending kwiling), crying as a warning to people that someone in their midst is about to die			Se puede repetir piriya piriya piriya		Animals
+2159	The angry, warning sound of a hummingbird			Se puede repetir pis pis pis		Animals
+2160	The appearance and movement of something dangling in mid-air.			Se puede repetir: pital pital pital pital pital		Motion
 2161	1.Depicts the way something rises from under water and is suddenly evident as it breaks through to the water's surface. It may focus on the duration of the upward thrusting movement, or its momentary, punctual occurrence. May also depict the rising up of a baby inside a watery womb during labor. 2.Depicts the way something floats and moves across the surface of water, either by gliding along smoothly, or by intermittently bobbing.					Motion
-2162	To puncture or pierce			Se puede repetir: "polo polo polo"		Basic actions and technology
-2163	The sound and movement of a bird's wings flapping as it flies			Se repite, a veces con aspiración. Ejemplo: "pu pu pʰu pʰ pʰ pʰ pʰ pʰ pʰ pʰ"."		Animals
+2162	To puncture or pierce			Se puede repetir: polo polo polo		Basic actions and technology
+2163	The sound and movement of a bird's wings flapping as it flies			Se repite, a veces con aspiración. Ejemplo: pu pu pʰu pʰ pʰ pʰ pʰ pʰ pʰ pʰ.		Animals
 2164	Depicts a movement of something reddish (including pinks ranging into brownish or yellowish hues), such as an animal, or, the spatial expanse of something red, which stands out from its environment.					Sense perception
 2165	A bright redness, including colors ranging from red, pink, orange,and earthy reddish brown					Sense perception
 2166	soplar					Basic actions and technology
 2167	An image of a branch or tree trunk cut from its base					Agriculture and vegetation
 2168	A brightness, or a flash of light					Sense perception
-2169	The appearance, sound and movement of birds flying			Se puede repetir: "pur pur pur pur pur..."		Animals
+2169	The appearance, sound and movement of birds flying			Se puede repetir: pur pur pur pur pur...		Animals
 2170	Said of an agricultural field that is overgrown and full of weeds					Agriculture and vegetation, Quantity
 2171	A plucking action, usually involving taking a part of a plant away from its main stem or trunk.					Agriculture and vegetation
 2172	A collapsing movement of a body					Motion
@@ -2207,7 +2207,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2206	The ordinary non-communicative sound of a bird.					Animals
 2207	a rustling sound, such as that made by bushes or trees that are moved through, or the sound of crunching something crisp					Agriculture and vegetation
 2208	The complete accomplishment of any action, state, activity, or process					OTHER
-2209	The sound of birds, either sikwanga (toucan) or akangaw (a type of parrot)			Reduplicación de "tata", "sya", o ambos"		Animals
+2209	The sound of birds, either sikwanga (toucan) or akangaw (a type of parrot)			Reduplicación de tata, sya, o ambos		Animals
 2210	explosive sound of firing a rifle, or a hollow, resonating sound resulting from closing a door, or tapping a hollow surface					Basic actions and technology
 2211	A complete absence of motion, as if 'stuck still'.					Motion
 2212	A shaking or trembling movement					Motion
@@ -2655,7 +2655,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2654	weasel species			Sonido de animal u objeto		Animals
 2655	sound of screaming					Emotion and values
 2656	sound of killing					Warfare and hunting
-2657	sound of killing birds			con alargamiento en la última "o"		Warfare and hunting, Animals
+2657	sound of killing birds			con alargamiento en la última o		Warfare and hunting, Animals
 2658	sound of day dawning					The physical world
 2659	sound of talking an unintelligible language					Speech and language
 2660	sound representing numerous kinds of events, such as talking, fighting, working of magic, eating					Basic actions and technology
@@ -2725,9 +2725,9 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2724		sonido de algo que cae en el agua				Motion
 2725		sonido que produce el trueno				The physical world
 2726		sonido de un choque				Basic actions and technology
-2727		sonido que comunica "nada"		Parece ser interjección. El ejemplo dice: "Nada", no muere."		Speech and language
+2727		sonido que comunica nada		Parece ser interjección. El ejemplo dice: Nada, no muere.		Speech and language
 2728		sonido producido por un golpe				Basic actions and technology
-2729		sonido que comunica "nada"		Parece ser interjección. El ejemplo dice: "Nada", la trampa no quiere agarrar al paujil."		Speech and language
+2729		sonido que comunica nada		Parece ser interjección. El ejemplo dice: Nada, la trampa no quiere agarrar al paujil.		Speech and language
 2730		sonido que produce el atrapar algo				Basic actions and technology
 2731		sonido de una campana				Basic actions and technology
 2732		idea de ponerse tendido, tiezo, postrado				The body, Spatial relations
@@ -2764,7 +2764,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2763		llegada de un hekura al pecho de un chamán (aceptando el ofrecimiento de otro chamán)		Hekura: clase de seres sobrenaturales		Religion and belief
 2764		canto del diostedé rabadilla dorada o piapoco. Se trata con frecuencia del canto de un hekura asociado a este pájaro		Hekura: clase de seres sobrenaturales		Religion and belief, Animals
 2765		sonido que hace una abeja		con alargamiento: diii		Animals
-2766		sonido hecho por una flauta		El ideófono está escrito así: "ji-jidididi". No es clara la función del guion, pues no se usa en el resto del diccionario y no hay evidencia de un prefijo "ji-"."		Basic actions and technology
+2766		sonido hecho por una flauta		El ideófono está escrito así: ji-jidididi. No es clara la función del guion, pues no se usa en el resto del diccionario y no hay evidencia de un prefijo ji-.		Basic actions and technology
 2767		imitación de cualquier canto				Speech and language
 2768		grr [¿gruñido?, JMS]				Emotion and values
 2769		canto del pájaro muttu				Animals
