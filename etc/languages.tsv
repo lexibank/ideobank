@@ -1,56 +1,57 @@
 ID	Language	Glottocode	Language family	Ideophones	Source for orthography	Source in Glottolog?
-Paumari	Paumari	paum1247	Arawa	10	Chapman & Derbyshire 1991	y
-Matsigenka	Matsigenka	mach1267	Arawak	224	Snell et al. 2011	y
-AsheninkaPerene	Asheninka-Perené	ashe1272	Arawak	170	Mihas 2015	y
-Yanesha	Yanesha'	yane1238	Arawak	80	Poblete p.c.	n
-Caquinte	Caquinte	caqu1242	Arawak	17	O'Hagan 2020	y
-Parecis	Parecís	pare1272	Arawak	13	Brandão 2014	y
-Yucuna	Yucuna	yucu1253	Arawak	11	Lemus Serrano 2020	y
-Palikur	Palikúr	pali1279	Arawak	10		
-Apurina	Apurinã	apur1254	Arawak	8		
-BanivaDeMaroa	Baniva de Maroa	guar1293	Arawak	4		
-Tariana	Tariana	tari1256	Arawak	4		
-Tsafiki	Tsafiki	colo1256	Barbacoan	124		
-Chapalaa	Cha'palaa	chac1249	Barbacoan	71		
-Bora	Bora	bora1263	Bora	7		
-Bororo	Bororo	boro1282	Bororo	19		
-Hixkaryana	Hixkaryána	hixk1239	Caribe	67		
-KuikuroKalapalo	Kuikúro-Kalapálo	kuik1246	Caribe	41		
-Wayana	Wayana	waya1269	Caribe	41		
-Apalai	Apalaí	apal1257	Caribe	40		
-Trio	Trió	trio1238	Caribe	28		
-Waiwai	Waiwai	waiw1244	Caribe	23		
-Yekwana	Ye'kwana	maqu1238	Caribe	14		
-Akawaio	Akawaio	akaw1241	Caribe	11		
-GalibiCarib	Galibi Carib	gali1262	Caribe	3		
-Wari	Wari'	wari1268	Chapacuran	215		
-Shuar	Shuar	shua1257	Chicham	384		
-Huambisa	Huambisa	huam1247	Chicham	45		
-Aguaruna	Aguaruna	agua1253	Chicham	21		
-Shiwiar	Shiwiar	shiw1235	Chicham	15		
-Waorani	Waorani	waor1240	Lengua aislada	70		
-Yuracare	Yuracaré	yura1255	Lengua aislada	41		
-Kwaza	Kwaza	kwaz1243	lengua aislada	20		
-Urarina	Urarina	urar1246	Lengua aislada	17		
-Saramaccan	Saramaccan	sara1340	Lengua criolla	138		
-Aukan	Aukan	ndyu1242	Lengua criolla	103		
-Hup	Hup	hupd1244	Naduhup	31		
-Daw	Dâw	daww1239	Naduhup	2		
-SouthernNambikuara	Southern Nambikuára	sout2994	Nambiquaran	26		
-Yaminawa	Yaminawa	yami1256	Pano	95		
-Iskonawa	Iskonawa	isco1239	Pano	86		
-CashiboCacataibo	Cashibo-Cacataibo	cash1251	Pano	13		
-Yagua	Yagua	yagu1244	Peba-Yagua	71		
-PastazaQuechua	Pastaza Quechua	past1249	Quechua II	240		
-ImbaburaHighlandQuichua	Imbabura Highland Quichua	imba1240	Quechua II	56		
-Cavinena	Cavineña	cavi1250	Tacana	33		
-Araona	Araona	arao1248	Tacana	1		
-BarasanaEduria	Barasana-Eduria	bara1380	Tucano	5		
-Karitiana	Karitiâna	kari1312	Tupí	120		
-Karo	Karo	karo1305	Tupí	101		
-Aweti	Awetí	awet1244	Tupí	84		
-Akuntsu	Akuntsu	akun1241	Tupí	12		
-UrubuKaapor	Urubú-Kaapor	urub1250	Tupí	7		
-CocamaCocamilla	Cocama-Cocamilla	coca1259	Tupí-Guaraní	34		
-Yanomamo	Yanomamö	yano1261	Yanomamic	24		
-Sanuma	Sanumá	sanu1240	Yanomamic	20		
+Paumari	Paumari	paum1247	Arawa	10	Chapman1991	y
+Matsigenka	Matsigenka	mach1267	Arawak	224	Snell2011	y
+AsheninkaPerene	Asheninka-Perené	ashe1272	Arawak	170	Mihas2015	y
+Yanesha	Yanesha'	yane1238	Arawak	80	Poblete2025	n
+Caquinte	Caquinte	caqu1242	Arawak	17	O'Hagan2020	y
+Parecis	Parecís	pare1272	Arawak	13	Brandão2014	y
+Yucuna	Yucuna	yucu1253	Arawak	11	LemusSerrano2020	y
+Palikur	Palikúr	pali1279	Arawak	10	Green1972	y
+Apurina	Apurinã	apur1254	Arawak	8	Facundes2000	y
+BanivaDeMaroa	Baniva de Maroa	guar1293	Arawak	4	Aikhenvald1998	y
+Tariana	Tariana	tari1256	Arawak	4	Aikhenvald2003	y
+Tsafiki	Tsafiki	colo1256	Barbacoan	124	Dickinson2002	y
+Chapalaa	Cha'palaa	chac1249	Barbacoan	71	Pianchiche2011	n
+Bora	Bora	bora1263	Bora	7	Thiesen2012	y
+Bororo	Bororo	boro1282	Bororo	19	Crowell1979	y
+Hixkaryana	Hixkaryána	hixk1239	Caribe	67	Derbyshire1979	y
+KuikuroKalapalo	Kuikúro-Kalapálo	kuik1246	Caribe	41	Basso2019	y
+Wayana	Wayana	waya1269	Caribe	41	Tavares2005	y
+Apalai	Apalaí	apal1257	Caribe	40	Koehn1986	y
+Trio	Trió	trio1238	Caribe	28	Carlin2004	y
+Waiwai	Waiwai	waiw1244	Caribe	23	Hawkins1998	y
+Yekwana	Ye'kwana	maqu1238	Caribe	14	Cáceres2011	y
+Akawaio	Akawaio	akaw1241	Caribe	11	Ceasar-Fox2003	y
+GalibiCarib	Galibi Carib	gali1262	Caribe	3	Hoff1968	y
+Wari	Wari'	wari1268	Chapacuran	215	Everett1997	y
+Shuar	Shuar	shua1257	Chicham	384	Pellizaro2005	y
+Huambisa	Huambisa	huam1247	Chicham	45	Peña2015	y
+Aguaruna	Aguaruna	agua1253	Chicham	21	Overall2007	y
+Shiwiar	Shiwiar	shiw1235	Chicham	15	Kohlberger2020	y
+Waorani	Waorani	waor1240	Lengua aislada	70	Gaba2011	n
+Yuracare	Yuracaré	yura1255	Lengua aislada	41	VanGijn2006	y
+Kwaza	Kwaza	kwaz1243	lengua aislada	20	vanderVoort2004	y
+Urarina	Urarina	urar1246	Lengua aislada	17	Olawsky2006	y
+Saramaccan	Saramaccan	sara1340	Lengua criolla	138	SummerInstituteofLinguistics2003	n
+Aukan	Aukan	ndyu1242	Lengua criolla	103	Huttar1994	y
+Hup	Hup	hupd1244	Naduhup	31	Epps2008	y
+Daw	Dâw	daww1239	Naduhup	2	Obert2019	y
+SouthernNambikuara	Southern Nambikuára	sout2994	Nambiquaran	26	Kroeker2001	y
+Yaminawa	Yaminawa	yami1256	Pano	95	Shive2021	n
+Iskonawa	Iskonawa	isco1239	Pano	86	Zariquiey2016	y
+CashiboCacataibo	Cashibo-Cacataibo	cash1251	Pano	13	Valle2017	y
+Yagua	Yagua	yagu1244	Peba-Yagua	71	Powlison1995	y
+PastazaQuechua	Pastaza Quechua	past1249	Quechua II	240	Nuckolls2025	n
+ImbaburaHighlandQuichua	Imbabura Highland Quichua	imba1240	Quechua II	56	Cole1985	y
+Cavinena	Cavineña	cavi1250	Tacana	33	Guillaume2008	y
+Araona	Araona	arao1248	Tacana	1	Emkow2006	y
+BarasanaEduria	Barasana-Eduria	bara1380	Tucano	5	Jones1991	y
+Karitiana	Karitiâna	kari1312	Tupí	120	Landin2005	y
+Karo	Karo	karo1305	Tupí	101	Gabas1999	y
+Aweti	Awetí	awet1244	Tupí	84	Reiter2011	y
+Akuntsu	Akuntsu	akun1241	Tupí	12	Aragon2014	y
+UrubuKaapor	Urubú-Kaapor	urub1250	Tupí	7	Kakumasu1986	y
+CocamaCocamilla	Cocama-Cocamilla	coca1259	Tupí-Guaraní	34	Vallejos2016	y
+CocamaCocamilla	Cocama-Cocamilla	coca1259	Tupí-Guaraní	34	Vallejos2015	y
+Yanomamo	Yanomamö	yano1261	Yanomamic	24	Lizot2004	y
+Sanuma	Sanumá	sanu1240	Yanomamic	20	Borgman1990	y
