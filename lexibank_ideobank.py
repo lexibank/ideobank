@@ -20,7 +20,6 @@ class CustomConcept(Concept):
 class CustomLexeme(Lexeme):
     Reduplication = attr.ib(default=None)
     ReduplicationNotes = attr.ib(default=None)
-    Source = attr.ib(default=None)
     Page = attr.ib(default=None)
 
 
@@ -104,6 +103,7 @@ class Dataset(BaseDataset):
                 print('Missing language:', doculect)
 
             else:
+                print(source)
                 args.writer.add_forms_from_value(
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[english] if english != '' else concepts[spanish],
