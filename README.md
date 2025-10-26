@@ -13,21 +13,15 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 60%](https://img.shields.io/badge/BIPA-60%25-orange.svg "BIPA: 60%")
-![CLTS SoundClass: 60%](https://img.shields.io/badge/CLTS%20SoundClass-60%25-orange.svg "CLTS SoundClass: 60%")
+![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 55 (linked to 55 different Glottocodes)
-- **Concepts:** 2,784 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 3,170
-- **Sources:** 69
-- **Synonymy:** 1.06
-- **Invalid lexemes:** 0
-- **Tokens:** 14,319
-- **Segments:** 198 (79 BIPA errors, 79 CLTS sound class errors, 119 CLTS modified)
-- **Inventory size (avg):** 23.64
+- **Varieties:** 0 (linked to 0 different Glottocodes)
+- **Concepts:** 0 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 0
+- **Sources:** 0
+- **Synonymy:** 0.00
 
 # Contributors
 

@@ -1,9 +1,10 @@
 import pathlib
-import attr
+from collections import defaultdict
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Lexeme, Concept
 from lingpy import Wordlist
+import attr
 
 
 @attr.s
@@ -13,6 +14,7 @@ class CustomConcept(Concept):
     Simplified = attr.ib(default=None)
     SemanticField = attr.ib(default=None)
     SensoryCategory = attr.ib(default=None)
+
 
 @attr.s
 class CustomLexeme(Lexeme):
@@ -35,7 +37,7 @@ class Dataset(BaseDataset):
         args.log.info("added sources")
 
         # add concept
-        concepts = {}
+        concepts = defaultdict()
         for concept in self.concepts:
             args.writer.add_concept(
                     ID=concept["ID"],
@@ -56,7 +58,7 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = {}
+        languages = defaultdict()
         for language in self.languages:
             args.writer.add_language(
                     ID=language["ID"],
@@ -108,7 +110,7 @@ class Dataset(BaseDataset):
                     Value=form,
                     Reduplication=reduplication,
                     ReduplicationNotes=reduplication_note,
-                    Source=' '.join(source),
+                    Source=source,
                     Page=page,
                     # Segments=tokens,
                     Comment=notes,

@@ -5,13 +5,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "ideobank",
     "dcat:accessURL": "https://github.com/lexibank/ideobank",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/ideobank",
             "rdf:type": "prov:Entity",
-            "dc:created": "13e5a10",
+            "dc:created": "bd9596c",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.7"
+            "dc:description": "3.14.0"
         },
         {
             "dc:title": "python-packages",
