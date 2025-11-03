@@ -5,248 +5,238 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 1539 | ✓ | ✓ |
-| i | 1049 | ✓ | ✓ |
-| k | 1026 | ✓ | ✓ |
-| t | 936 | ✓ | ✓ |
-| o | 826 | ✓ | ✓ |
-| u | 820 | ✓ | ✓ |
-| p | 598 | ✓ | ✓ |
-| e | 584 | ✓ | ✓ |
-| n | 559 | ✓ | ✓ |
-| ɾ | 390 | ✓ | ✓ |
-| r | 371 | ✓ | ✓ |
-| h | 354 | ✓ | ✓ |
-| m | 316 | ✓ | ✓ |
-| s | 312 | ✓ | ✓ |
+| a | 1533 | ✓ | ✓ |
+| i | 1073 | ✓ | ✓ |
+| k | 1021 | ✓ | ✓ |
+| t | 906 | ✓ | ✓ |
+| o | 796 | ✓ | ✓ |
+| u | 783 | ✓ | ✓ |
+| ɾ | 727 | ✓ | ✓ |
+| e | 610 | ✓ | ✓ |
+| p | 589 | ✓ | ✓ |
+| n | 515 | ✓ | ✓ |
+| h | 410 | ✓ | ✓ |
+| m | 323 | ✓ | ✓ |
+| s | 317 | ✓ | ✓ |
+| ɨ | 296 | ✓ | ✓ |
 | w | 270 | ✓ | ✓ |
-| ts | 258 | ✓ | ✓ |
-| j | 251 | ✓ | ✓ |
-| ɨ | 246 | ✓ | ✓ |
-| á | 217 | ✓ | ✓ |
-| l | 179 | ✓ | ✓ |
-| tʃ | 171 | ✓ | ✓ |
-| g | 144 | ✓ | ✓ |
-| y | 142 | ✓ | ✓ |
-| í | 134 | ✓ | ✓ |
+| tʃ | 255 | ✓ | ✓ |
+| ts | 239 | ✓ | ✓ |
+| j | 202 | ✓ | ✓ |
+| á | 179 | ✓ | ✓ |
+| ʃ | 176 | ✓ | ✓ |
+| l | 161 | ✓ | ✓ |
+| g | 131 | ✓ | ✓ |
+| í | 118 | ✓ | ✓ |
+| ʔ | 108 | ✓ | ✓ |
 | + | 103 | ✓ | ✓ |
 | t̪ | 100 | ✓ | ✓ |
-| ʔ | 97 | ✓ | ✓ |
-| ú | 96 | ✓ | ✓ |
-| d | 93 | ✓ | ✓ |
-| b | 92 | ✓ | ✓ |
-| sh | 92 | ? | ? |
-| ŋ | 77 | ✓ | ✓ |
-| x | 67 | ✓ | ✓ |
-| ó | 64 | ✓ | ✓ |
-| ʃ | 64 | ✓ | ✓ |
-| ch | 63 | ? | ? |
-| ɲ | 54 | ✓ | ✓ |
-| ã | 52 | ✓ | ✓ |
-| õ | 45 | ✓ | ✓ |
+| ɯ | 92 | ✓ | ✓ |
+| ŋ | 89 | ✓ | ✓ |
+| d | 85 | ✓ | ✓ |
+| ú | 83 | ✓ | ✓ |
+| b | 82 | ✓ | ✓ |
+| ɔ | 67 | ✓ | ✓ |
+| ã | 60 | ✓ | ✓ |
+| y | 53 | ✓ | ✓ |
+| oː | 47 | ✓ | ✓ |
+| õ | 46 | ✓ | ✓ |
 | u̜ | 44 | ✓ | ✓ |
-| ɯ | 44 | ✓ | ✓ |
-| v | 42 | ✓ | ✓ |
+| x | 43 | ✓ | ✓ |
 | ɨ́ | 42 | ✓ | ✓ |
-| f | 38 | ✓ | ✓ |
-| é | 38 | ✓ | ✓ |
-| <<y>> | 37 | ? | ? |
+| aː | 41 | ✓ | ✓ |
+| nʲ | 37 | ✓ | ✓ |
+| æ | 37 | ✓ | ✓ |
+| ĩ | 37 | ✓ | ✓ |
+| ɸ | 37 | ✓ | ✓ |
+| ɨi | 36 | ✓ | ✓ |
+| ʐ | 36 | ✓ | ✓ |
 | ˩ | 36 | ✓ | ✓ |
+| β | 36 | ✓ | ✓ |
+| ó | 32 | ✓ | ✓ |
+| ũ | 31 | ✓ | ✓ |
 | ɫ | 31 | ✓ | ✓ |
-| ĩ | 30 | ✓ | ✓ |
 | ɪ | 30 | ✓ | ✓ |
+| iː | 29 | ✓ | ✓ |
 | tɕ | 29 | ✓ | ✓ |
-| ll | 28 | ? | ? |
+| <<w>> | 28 | ? | ? |
+| ɽ | 27 | ✓ | ✓ |
+| ɤ | 26 | ✓ | ✓ |
+| f | 25 | ✓ | ✓ |
 | gb | 25 | ✓ | ✓ |
-| oo | 24 | ✓ | ✓ |
-| ʐ | 24 | ✓ | ✓ |
-| aa | 23 | ✓ | ✓ |
-| c | 23 | ✓ | ✓ |
+| tsʰ | 25 | ✓ | ✓ |
+| χ | 25 | ✓ | ✓ |
+| eː | 23 | ✓ | ✓ |
+| é | 23 | ✓ | ✓ |
 | ˩˥ | 23 | ✓ | ✓ |
 | n̪ | 22 | ✓ | ✓ |
-| ï | 22 | ✓ | ✓ |
 | ɕ | 22 | ✓ | ✓ |
-| <<o>> | 21 | ? | ? |
-| <?> | 21 | ? | ? |
-| ee | 21 | ✓ | ✓ |
-| <<r>> | 18 | ? | ? |
-| aː | 18 | ✓ | ✓ |
-| z | 18 | ✓ | ✓ |
-| ũ | 18 | ✓ | ✓ |
-| ɛ | 18 | ✓ | ✓ |
+| lʲ | 21 | ✓ | ✓ |
+| ɛ | 21 | ✓ | ✓ |
+| ə | 20 | ✓ | ✓ |
+| r | 19 | ✓ | ✓ |
+| ẽ | 19 | ✓ | ✓ |
+| ɺ | 18 | ✓ | ✓ |
 | ʊ | 18 | ✓ | ✓ |
-| ɸ | 17 | ✓ | ✓ |
-| kʷ | 16 | ✓ | ✓ |
-| ə | 16 | ✓ | ✓ |
+| uː | 17 | ✓ | ✓ |
+| ɲ | 17 | ✓ | ✓ |
+| ɨ̃ | 16 | ✓ | ✓ |
 | ʂ | 16 | ✓ | ✓ |
-| ii | 15 | ✓ | ✓ |
+| ʎ | 15 | ✓ | ✓ |
 | ˥˩ | 15 | ✓ | ✓ |
-| ẽ | 15 | ✓ | ✓ |
-| <<w>> | 14 | ? | ? |
-| uː | 14 | ✓ | ✓ |
-| ɔ | 14 | ✓ | ✓ |
+| <<ï>> | 14 | ? | ? |
 | ø | 13 | ✓ | ✓ |
-| ɨ̃ | 13 | ✓ | ✓ |
+| c | 12 | ✓ | ✓ |
 | dʒ | 12 | ✓ | ✓ |
-| iː | 12 | ✓ | ✓ |
+| kʰ | 12 | ✓ | ✓ |
+| ɛ́ | 12 | ✓ | ✓ |
 | ʒ | 12 | ✓ | ✓ |
-| β | 12 | ✓ | ✓ |
 | <<j>> | 11 | ? | ? |
-| oː | 11 | ✓ | ✓ |
-| ɛ́ | 11 | ✓ | ✓ |
+| v | 11 | ✓ | ✓ |
 | i̥ | 10 | ✓ | ✓ |
-| ʎ | 10 | ✓ | ✓ |
-| <<g>> | 9 | ? | ? |
-| uu | 9 | ✓ | ✓ |
+| kʷ | 10 | ✓ | ✓ |
+| k̚ | 10 | ✓ | ✓ |
+| <<->> | 9 | ? | ? |
+| tʲ | 9 | ✓ | ✓ |
+| z | 9 | ✓ | ✓ |
 | ŋᵍ | 9 | ? | ? |
+| <<o>> | 8 | ? | ? |
 | gw | 8 | ? | ? |
-| ooo | 8 | ? | ? |
 | ɔ́ | 8 | ✓ | ✓ |
+| <<g>> | 7 | ? | ? |
+| a̰ | 7 | ✓ | ✓ |
 | mᵇ | 7 | ? | ? |
-| rr | 7 | ? | ? |
 | ty | 7 | ? | ? |
 | ñ | 7 | ✓ | ✓ |
 | ə́ | 7 | ✓ | ✓ |
+| ɺʲ | 7 | ✓ | ✓ |
+| <<b>> | 6 | ? | ? |
 | <<k>> | 6 | ? | ? |
 | <<s>> | 6 | ? | ? |
-| a̰ | 6 | ✓ | ✓ |
 | dz | 6 | ✓ | ✓ |
 | nˀ | 6 | ✓ | ✓ |
-| xh | 6 | ? | ? |
+| tʰ | 6 | ✓ | ✓ |
+| ç | 6 | ✓ | ✓ |
 | óː | 6 | ✓ | ✓ |
-| ɽ | 6 | ✓ | ✓ |
 | <<e>> | 5 | ? | ? |
 | <<l>> | 5 | ? | ? |
 | <<n>> | 5 | ? | ? |
-| <<z>> | 5 | ? | ? |
 | d̪ | 5 | ✓ | ✓ |
-| kʰ | 5 | ✓ | ✓ |
 | tsʲ | 5 | ✓ | ✓ |
 | íː | 5 | ✓ | ✓ |
-| ö | 5 | ✓ | ✓ |
 | ɔ́ː | 5 | ✓ | ✓ |
 | ɛː | 5 | ✓ | ✓ |
+| ᵐb | 5 | ✓ | ✓ |
+| <<h>> | 4 | ? | ? |
 | <<m>> | 4 | ? | ? |
-| eee | 4 | ? | ? |
+| <<r>> | 4 | ? | ? |
+| dʲ | 4 | ✓ | ✓ |
 | kp | 4 | ✓ | ✓ |
-| tʰ | 4 | ✓ | ✓ |
+| pʰ | 4 | ✓ | ✓ |
 | áː | 4 | ✓ | ✓ |
 | ã́ | 4 | ✓ | ✓ |
-| æ | 4 | ✓ | ✓ |
+| ɓ | 4 | ✓ | ✓ |
 | ɔːː | 4 | ✓ | ✓ |
-| ɺ | 4 | ✓ | ✓ |
 | ḭ̃ | 4 | ✓ | ✓ |
-| <<->> | 3 | ? | ? |
-| <<b>> | 3 | ? | ? |
-| <<h>> | 3 | ? | ? |
-| <<ç>> | 3 | ? | ? |
+| <<f>> | 3 | ? | ? |
+| <<ë>> | 3 | ? | ? |
 | <<ü>> | 3 | ? | ? |
+| <<’>> | 3 | ? | ? |
 | dʑ | 3 | ✓ | ✓ |
-| eː | 3 | ✓ | ✓ |
-| iii | 3 | ? | ? |
 | kw | 3 | ✓ | ✓ |
-| mh | 3 | ? | ? |
-| xw | 3 | ? | ? |
-| ç | 3 | ✓ | ✓ |
-| ë | 3 | ✓ | ✓ |
-| î | 3 | ✓ | ✓ |
-| ɓ | 3 | ✓ | ✓ |
+| mʲ | 3 | ✓ | ✓ |
+| ãj | 3 | ? | ? |
 | ɗ | 3 | ✓ | ✓ |
 | ɛ́ːː | 3 | ✓ | ✓ |
+| ɣ | 3 | ✓ | ✓ |
+| ɾ̠ | 3 | ✓ | ✓ |
+| ʁ | 3 | ✓ | ✓ |
+| ʈʂ | 3 | ✓ | ✓ |
 | <<'>> | 2 | ? | ? |
-| <<f>> | 2 | ? | ? |
+| <<:>> | 2 | ? | ? |
+| <<d>> | 2 | ? | ? |
+| <<y>> | 2 | ? | ? |
 | <<ʊ>> | 2 | ? | ? |
 | hʷ | 2 | ✓ | ✓ |
-| mm | 2 | ? | ? |
+| kʲ | 2 | ✓ | ✓ |
+| kʲʰ | 2 | ✓ | ✓ |
+| l̥ | 2 | ✓ | ✓ |
 | mˀ | 2 | ✓ | ✓ |
 | nᵈ | 2 | ? | ? |
-| pʰ | 2 | ✓ | ✓ |
 | tˀ | 2 | ✓ | ✓ |
+| ua | 2 | ✓ | ✓ |
 | u̥ | 2 | ✓ | ✓ |
 | wʲ | 2 | ✓ | ✓ |
 | w̰ | 2 | ✓ | ✓ |
 | ã̰ | 2 | ✓ | ✓ |
 | íːː | 2 | ✓ | ✓ |
 | óːː | 2 | ✓ | ✓ |
-| ü | 2 | ✓ | ✓ |
 | ɔː | 2 | ✓ | ✓ |
+| ɔ̃ | 2 | ✓ | ✓ |
 | ɨː | 2 | ✓ | ✓ |
 | ɪ̃ | 2 | ✓ | ✓ |
+| ɯ́ | 2 | ✓ | ✓ |
 | ɯ̃ | 2 | ✓ | ✓ |
 | ɹ | 2 | ✓ | ✓ |
 | ˀw | 2 | ✓ | ✓ |
+| θ | 2 | ✓ | ✓ |
 | ḭ | 2 | ✓ | ✓ |
-| ỹ | 2 | ✓ | ✓ |
+| <<I>> | 1 | ? | ? |
+| <<K>> | 1 | ? | ? |
+| <<c>> | 1 | ? | ? |
+| <<u>> | 1 | ? | ? |
 | <<à>> | 1 | ? | ? |
 | <<ó>> | 1 | ? | ? |
-| <<õ>> | 1 | ? | ? |
 | <<ö>> | 1 | ? | ? |
-| <<č>> | 1 | ? | ? |
+| <<ə>> | 1 | ? | ? |
 | <<ɾ>> | 1 | ? | ? |
 | <<ʉ>> | 1 | ? | ? |
-| <<ʰ>> | 1 | ? | ? |
 | <<́>> | 1 | ? | ? |
 | <<̃>> | 1 | ? | ? |
 | <<̌>> | 1 | ? | ? |
 | <<̠>> | 1 | ? | ? |
-| <<ỹ>> | 1 | ? | ? |
-| aaa | 1 | ? | ? |
+| <<ẽ>> | 1 | ? | ? |
 | aw | 1 | ? | ? |
-| bh | 1 | ? | ? |
 | bʰ | 1 | ✓ | ✓ |
-| dʲ | 1 | ✓ | ✓ |
-| eeeeeeee | 1 | ? | ? |
-| hs | 1 | ? | ? |
-| iiii | 1 | ? | ? |
-| iiiii | 1 | ? | ? |
-| iiiiiii | 1 | ? | ? |
-| jh | 1 | ? | ? |
-| jj | 1 | ? | ? |
+| eˀ | 1 | ✓ | ✓ |
 | j̰ | 1 | ✓ | ✓ |
-| ksh | 1 | ? | ? |
-| kʲ | 1 | ✓ | ✓ |
 | kˀ | 1 | ✓ | ✓ |
-| mmmmmmmm | 1 | ? | ? |
 | m̰ː | 1 | ✓ | ✓ |
-| nn | 1 | ? | ? |
 | n̰ | 1 | ✓ | ✓ |
 | nᶡ | 1 | ? | ? |
-| oooo | 1 | ? | ? |
-| ooooooooo | 1 | ? | ? |
-| psh | 1 | ? | ? |
 | sʲ | 1 | ✓ | ✓ |
 | sˀ | 1 | ✓ | ✓ |
 | tʙ̥ | 1 | ? | ? |
+| ui | 1 | ✓ | ✓ |
+| uiː | 1 | ✓ | ✓ |
 | uːː | 1 | ✓ | ✓ |
-| ws | 1 | ? | ? |
-| yyy | 1 | ? | ? |
+| xʲ | 1 | ✓ | ✓ |
 | à | 1 | ✓ | ✓ |
 | ãː | 1 | ✓ | ✓ |
-| éh | 1 | ? | ? |
 | éː | 1 | ✓ | ✓ |
 | éːː | 1 | ✓ | ✓ |
+| ïː | 1 | ✓ | ✓ |
 | ò | 1 | ✓ | ✓ |
 | õː | 1 | ✓ | ✓ |
 | úː | 1 | ✓ | ✓ |
 | úːː | 1 | ✓ | ✓ |
-| üss | 1 | ? | ? |
-| ŋ̃ | 1 | ✓ | ✓ |
+| ĩː | 1 | ✓ | ✓ |
+| ŋʲ | 1 | ✓ | ✓ |
 | ǽ | 1 | ✓ | ✓ |
-| ɔ̃ | 1 | ✓ | ✓ |
 | ə́ː | 1 | ✓ | ✓ |
 | ɛːː | 1 | ✓ | ✓ |
 | ɛ́ː | 1 | ✓ | ✓ |
-| ɤ | 1 | ✓ | ✓ |
-| ɨɨ | 1 | ✓ | ✓ |
-| ɨɨɨɨɨɨɨɨɨ | 1 | ? | ? |
 | ɨ̃́ | 1 | ✓ | ✓ |
 | ɨ̥ | 1 | ✓ | ✓ |
 | ʃː | 1 | ✓ | ✓ |
 | ˀn | 1 | ✓ | ✓ |
+| βʲ | 1 | ✓ | ✓ |
 | β̞ | 1 | ✓ | ✓ |
+| ḭ́ | 1 | ✓ | ✓ |
 | ṍ | 1 | ✓ | ✓ |
+| ẽː | 1 | ✓ | ✓ |
 
-(240 rows)
+(230 rows)
 
 
 
@@ -262,65 +252,16 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------|:----------------|----------:|:------------|:-----------------------------------------------------------------------------|
+|:------------------------------|:------------------------|----------:|:---------------|:---------------------------------------------------------|
 | Aguaruna-18-1 | Aguaruna | 18 | hawát | h a <s> <<w>> </s> á t̪ |
 | Aguaruna-22-1 | Aguaruna | 22 | kuwɨŋkahá | k u <s> <<w>> </s> ɨ ŋ k a h á |
 | Aguaruna-28-1 | Aguaruna | 28 | pɨpɨŋkasuã́ | p ɨ p ɨ ŋ k a <s> <<s>> </s> u ã́ |
 | Aguaruna-29-1 | Aguaruna | 29 | pisút | p i <s> <<s>> </s> ú t̪ |
+| Akawaio-41-1 | Akawaio | 41 | tarai-darai | t a ɾ a i <s> <<->> </s> d a ɾ a i |
+| Akawaio-45-1 | Akawaio | 45 | tuu-ru-ruup | t uː <s> <<->> </s> ɾ u <s> <<->> </s> ɾ uː p |
 | Akuntsu-56-1 | Akuntsu | 56 | buɾu | b u <s> <<ɾ>> </s> u |
-| Apalai-61-1 | Apalai | 61 | pyhseky | p y <s> hs </s> e k y |
-| Apalai-86-1 | Apalai | 86 | wyyy | w <s> yyy </s> |
-| AsheninkaPerene-100-1 | AsheninkaPerene | 100 | chaa | <s> ch </s> aa |
-| AsheninkaPerene-100-2 | AsheninkaPerene | 100 | shee | <s> sh </s> ee |
-| AsheninkaPerene-107-1 | AsheninkaPerene | 107 | shimori | <s> sh </s> i m o r i |
-| AsheninkaPerene-108-1 | AsheninkaPerene | 108 | shipo | <s> sh </s> i p o |
-| AsheninkaPerene-109-1 | AsheninkaPerene | 109 | shiri | <s> sh </s> i r i |
-| AsheninkaPerene-109-2 | AsheninkaPerene | 109 | shikiri | <s> sh </s> i k i r i |
-| AsheninkaPerene-118-1 | AsheninkaPerene | 118 | shipariri | <s> sh </s> i p a r i r i |
-| AsheninkaPerene-119-1 | AsheninkaPerene | 119 | chinte | <s> ch </s> i n t e |
-| AsheninkaPerene-119-2 | AsheninkaPerene | 119 | chintek | <s> ch </s> i n t e k |
-| AsheninkaPerene-120-1 | AsheninkaPerene | 120 | chinte | <s> ch </s> i n t e |
-| AsheninkaPerene-120-2 | AsheninkaPerene | 120 | chinteki | <s> ch </s> i n t e k i |
-| AsheninkaPerene-124-1 | AsheninkaPerene | 124 | shek | <s> sh </s> e k |
-| AsheninkaPerene-125-1 | AsheninkaPerene | 125 | sherok | <s> sh </s> e r o k |
-| AsheninkaPerene-126-1 | AsheninkaPerene | 126 | sheri | <s> sh </s> e r i |
-| AsheninkaPerene-127-1 | AsheninkaPerene | 127 | shetak | <s> sh </s> e t a k |
-| AsheninkaPerene-128-1 | AsheninkaPerene | 128 | shiri | <s> sh </s> i r i |
-| AsheninkaPerene-129-1 | AsheninkaPerene | 129 | shirori | <s> sh </s> i r o r i |
-| AsheninkaPerene-130-1 | AsheninkaPerene | 130 | shoi | <s> sh </s> o i |
-| AsheninkaPerene-131-1 | AsheninkaPerene | 131 | shoi | <s> sh </s> o i |
-| AsheninkaPerene-1337-1 | AsheninkaPerene | 1337 | jo-jooo | j o j <s> ooo </s> |
-| AsheninkaPerene-139-1 | AsheninkaPerene | 139 | shepik | <s> sh </s> e p i k |
-| AsheninkaPerene-143-1 | AsheninkaPerene | 143 | chikiroring | <s> ch </s> i k i r o r i n g |
-| AsheninkaPerene-145-2 | AsheninkaPerene | 145 | chaa | <s> ch </s> aa |
-| AsheninkaPerene-145-3 | AsheninkaPerene | 145 | chaak | <s> ch </s> aa k |
-| AsheninkaPerene-157-1 | AsheninkaPerene | 157 | sherok | <s> sh </s> e r o k |
-| AsheninkaPerene-159-1 | AsheninkaPerene | 159 | chek | <s> ch </s> e k |
-| AsheninkaPerene-159-2 | AsheninkaPerene | 159 | cheki | <s> ch </s> e k i |
-| AsheninkaPerene-160-1 | AsheninkaPerene | 160 | chiki chiki | <s> ch </s> i k i + <s> ch </s> i k i |
-| AsheninkaPerene-161-1 | AsheninkaPerene | 161 | chiri | <s> ch </s> i r i |
-| AsheninkaPerene-163-1 | AsheninkaPerene | 163 | koshe | k o <s> sh </s> e |
-| AsheninkaPerene-169-1 | AsheninkaPerene | 169 | piche | p i <s> ch </s> e |
-| AsheninkaPerene-170-1 | AsheninkaPerene | 170 | pichori | p i <s> ch </s> o r i |
-| AsheninkaPerene-175-1 | AsheninkaPerene | 175 | shaari | <s> sh </s> aa r i |
-| AsheninkaPerene-175-2 | AsheninkaPerene | 175 | shaariri | <s> sh </s> aa r i r i |
-| AsheninkaPerene-176-1 | AsheninkaPerene | 176 | shei | <s> sh </s> e i |
-| AsheninkaPerene-177-1 | AsheninkaPerene | 177 | shemi | <s> sh </s> e m i |
-| AsheninkaPerene-178-1 | AsheninkaPerene | 178 | shitari | <s> sh </s> i t a r i |
-| AsheninkaPerene-184-1 | AsheninkaPerene | 184 | macho | m a <s> ch </s> o |
-| AsheninkaPerene-187-1 | AsheninkaPerene | 187 | shepi | <s> sh </s> e p i |
-| AsheninkaPerene-188-1 | AsheninkaPerene | 188 | shitak | <s> sh </s> i t a k |
-| AsheninkaPerene-189-1 | AsheninkaPerene | 189 | chiki | <s> ch </s> i k i |
-| AsheninkaPerene-196-1 | AsheninkaPerene | 196 | chara | <s> ch </s> a r a |
-| AsheninkaPerene-197-1 | AsheninkaPerene | 197 | chota | <s> ch </s> o t a |
-| AsheninkaPerene-198-1 | AsheninkaPerene | 198 | je-jeee | j e j <s> eee </s> |
-| AsheninkaPerene-200-1 | AsheninkaPerene | 200 | kisho | k i <s> sh </s> o |
-| AsheninkaPerene-206-1 | AsheninkaPerene | 206 | shish | <s> sh </s> i <s> sh </s> |
-| AsheninkaPerene-209-1 | AsheninkaPerene | 209 | pishe | p i <s> sh </s> e |
-| AsheninkaPerene-211-1 | AsheninkaPerene | 211 | shepi | <s> sh </s> e p i |
-| AsheninkaPerene-212-1 | AsheninkaPerene | 212 | shiri | <s> sh </s> i r i |
-| AsheninkaPerene-224-1 | AsheninkaPerene | 224 | chako | <s> ch </s> a k o |
-| AsheninkaPerene-2815-1 | AsheninkaPerene | 2815 | piche | p i <s> ch </s> e |
+| AsheninkaPerene-1337-1 | AsheninkaPerene | 1337 | jo-jooo | h o <s> <<->> </s> h oː o |
+| AsheninkaPerene-198-1 | AsheninkaPerene | 198 | je-jeee | h e <s> <<->> </s> h eː e |
 | Aukan-269-1 | Aukan | 269 | gbalan | <s> gw </s> a l a n |
 | Aukan-270-1 | Aukan | 270 | gbei | <s> gw </s> e i |
 | Aukan-271-1 | Aukan | 271 | gbélégédéé | <s> gw </s> é l é g é d é é |
@@ -330,39 +271,88 @@
 | Aukan-302-1 | Aukan | 302 | nyànn | n j <s> <<à>> </s> n n |
 | Aukan-304-1 | Aukan | 304 | ppagb | p p a <s> gw </s> |
 | Aukan-334-1 | Aukan | 334 | zryou | z <s> <<r>> </s> j o u |
-| Aweti-338-1 | Aweti | 338 | atsy | a ts <s> <<y>> </s> |
 | Aweti-339-1 | Aweti | 339 | fu | <s> <<f>> </s> u |
-| Aweti-343-2 | Aweti | 343 | e'i | e <s> <<'>> </s> i |
-| Aweti-349-1 | Aweti | 349 | ko | k <s> <<o>> </s> |
-| Aweti-350-1 | Aweti | 350 | kon | k <s> <<o>> </s> n |
-| Aweti-353-1 | Aweti | 353 | kuzu kuzuk | k u <s> <<z>> </s> u + k u <s> <<z>> </s> u k |
-| Aweti-354-1 | Aweti | 354 | ky | k <s> <<y>> </s> |
-| Aweti-355-1 | Aweti | 355 | kyryk | k <s> <<y>> </s> <s> <<r>> </s> <s> <<y>> </s> k |
-| Aweti-356-1 | Aweti | 356 | kyryry | k <s> <<y>> </s> <s> <<r>> </s> <s> <<y>> </s> <s> <<r>> </s> <s> <<y>> </s> |
-| Aweti-357-1 | Aweti | 357 | kyry | k <s> <<y>> </s> <s> <<r>> </s> <s> <<y>> </s> |
-| Aweti-358-1 | Aweti | 358 | kyry lok | k <s> <<y>> </s> <s> <<r>> </s> <s> <<y>> </s> + l <s> <<o>> </s> k |
-| Aweti-359-1 | Aweti | 359 | kytsy | k <s> <<y>> </s> ts <s> <<y>> </s> |
-| Aweti-360-1 | Aweti | 360 | kytsy | k <s> <<y>> </s> ts <s> <<y>> </s> |
-| Aweti-361-1 | Aweti | 361 | kytyk | k <s> <<y>> </s> t <s> <<y>> </s> k |
-| Aweti-362-1 | Aweti | 362 | kyw | k <s> <<y>> </s> w |
-| Aweti-363-1 | Aweti | 363 | kyw tak | k <s> <<y>> </s> w + t a k |
-| Aweti-364-1 | Aweti | 364 | kỹw | k <s> <<ỹ>> </s> w |
-| Aweti-366-1 | Aweti | 366 | perek | p e <s> <<r>> </s> e k |
-| Aweti-367-1 | Aweti | 367 | ping | p i n <s> <<g>> </s> |
-| Aweti-369-1 | Aweti | 369 | po | p <s> <<o>> </s> |
-| Aweti-370-1 | Aweti | 370 | pok | p <s> <<o>> </s> k |
-| Aweti-371-1 | Aweti | 371 | po | p <s> <<o>> </s> |
-| Aweti-372-1 | Aweti | 372 | potsok | p <s> <<o>> </s> ts <s> <<o>> </s> k |
-| Aweti-375-1 | Aweti | 375 | puru | p u <s> <<r>> </s> u |
-| Aweti-376-1 | Aweti | 376 | pyw | p <s> <<y>> </s> w |
-| Aweti-377-1 | Aweti | 377 | pyw | p <s> <<y>> </s> w |
-| Aweti-379-1 | Aweti | 379 | taky | t a k <s> <<y>> </s> |
-| Aweti-380-1 | Aweti | 380 | tarara | t a <s> <<r>> </s> a <s> <<r>> </s> a |
-| Aweti-381-1 | Aweti | 381 | tarak | t a <s> <<r>> </s> a k |
-| Aweti-385-1 | Aweti | 385 | toho | t <s> <<o>> </s> h <s> <<o>> </s> |
-| Aweti-386-1 | Aweti | 386 | to'aw | t <s> <<o>> </s> <s> <<'>> </s> a w |
-| Aweti-387-1 | Aweti | 387 | tok | t <s> <<o>> </s> k |
-| Aweti-388-1 | Aweti | 388 | tom | t <s> <<o>> </s> m |
+| BanivaDeMaroa-412-1 | BanivaDeMaroa | 412 | tfu | t <s> <<f>> </s> u |
+| BarasanaEduria-420-1 | BarasanaEduria | 420 | topʉa | t o p <s> <<ʉ>> </s> a |
+| Bora-421-1 | Bora | 421 | kʰàʔó-kʰáʔò | kʰ à ʔ ó <s> <<->> </s> kʰ á ʔ ò |
+| CocamaCocamilla-498-1 | CocamaCocamilla | 498 | blom | <s> <<b>> </s> <s> <<l>> </s> <s> <<o>> </s> m |
+| CocamaCocamilla-503-1 | CocamaCocamilla | 503 | plon | p <s> <<l>> </s> <s> <<o>> </s> n |
+| CocamaCocamilla-504-1 | CocamaCocamilla | 504 | poj | p <s> <<o>> </s> x |
+| CocamaCocamilla-504-2 | CocamaCocamilla | 504 | soj | <s> <<s>> </s> <s> <<o>> </s> x |
+| CocamaCocamilla-505-1 | CocamaCocamilla | 505 | pululilin | p u <s> <<l>> </s> u <s> <<l>> </s> i <s> <<l>> </s> i n |
+| CocamaCocamilla-506-1 | CocamaCocamilla | 506 | saj | <s> <<s>> </s> a x |
+| CocamaCocamilla-507-1 | CocamaCocamilla | 507 | sak | <s> <<s>> </s> a k |
+| CocamaCocamilla-510-1 | CocamaCocamilla | 510 | asha | a <s> <<s>> </s> <s> <<h>> </s> a |
+| CocamaCocamilla-523-1 | CocamaCocamilla | 523 | toj | t <s> <<o>> </s> x |
+| Huambisa-601-1 | Huambisa | 601 | mut͡ʃík | <s> <<m>> </s> u tʃ í k |
+| Huambisa-614-1 | Huambisa | 614 | kúntua | k ú <s> <<n>> </s> t̪ u a |
+| Huambisa-617-1 | Huambisa | 617 | kunt͡ʃiá | k u <s> <<n>> </s> tʃ i á |
+| Huambisa-620-1 | Huambisa | 620 | ámpin | á <s> <<m>> </s> p i <s> <<n>> </s> |
+| Huambisa-622-1 | Huambisa | 622 | tánki | t̪ á <s> <<n>> </s> k i |
+| Huambisa-623-1 | Huambisa | 623 | tákia tánkia | t̪ á k i a + t̪ á <s> <<n>> </s> k i a |
+| Huambisa-625-1 | Huambisa | 625 | ʊ́ʊ | <s> <<ʊ>> </s> <s> <<́>> </s> <s> <<ʊ>> </s> |
+| Huambisa-626-1 | Huambisa | 626 | wɨrɨ́ | <s> <<w>> </s> ɨ ɾ ɨ́ |
+| Huambisa-632-1 | Huambisa | 632 | wáa | <s> <<w>> </s> á a |
+| Huambisa-635-1 | Huambisa | 635 | h̃mm | h <s> <<̃>> </s> <s> <<m>> </s> <s> <<m>> </s> |
+| Hup-669-1 | Hup | 669 | wɔhwæ̌w | w ɔ h w æ <s> <<̌>> </s> w |
+| ImbaburaHighlandQuichua-679-1 | ImbaburaHighlandQuichua | 679 | gan | <s> <<g>> </s> a n |
+| ImbaburaHighlandQuichua-680-1 | ImbaburaHighlandQuichua | 680 | guirr | <s> <<g>> </s> u i ʐ |
+| ImbaburaHighlandQuichua-681-1 | ImbaburaHighlandQuichua | 681 | gur | <s> <<g>> </s> u ɾ |
+| ImbaburaHighlandQuichua-682-1 | ImbaburaHighlandQuichua | 682 | ingá | i n <s> <<g>> </s> á |
+| ImbaburaHighlandQuichua-699-1 | ImbaburaHighlandQuichua | 699 | mee | m <s> <<e>> </s> <s> <<e>> </s> |
+| ImbaburaHighlandQuichua-717-1 | ImbaburaHighlandQuichua | 717 | unguyj | u n <s> <<g>> </s> u j x |
+| Karo-2844-2 | Karo | 2844 | t͜p̃u | <s> tʙ̥ </s> u |
+| Karo-840-1 | Karo | 840 | kahmi | k a <s> <<h>> </s> m i |
+| Karo-874-1 | Karo | 874 | ohyuŋ | o <s> <<h>> </s> j u ŋ |
+| KuikuroKalapalo-1094-1 | KuikuroKalapalo | 1094 | mboruk’ | ᵐb ɤ <s> <<r>> </s> u k̚ |
+| KuikuroKalapalo-1101-1 | KuikuroKalapalo | 1101 | u:bom | uː <s> <<b>> </s> ɤ m |
+| KuikuroKalapalo-1107-1 | KuikuroKalapalo | 1107 | beh | <s> <<b>> </s> e h |
+| KuikuroKalapalo-1123-1 | KuikuroKalapalo | 1123 | buhruhruh | <s> <<b>> </s> u h <s> <<r>> </s> u h <s> <<r>> </s> u h |
+| Kwaza-1131-1 | Kwaza | 1131 | bũũng | ɓ ũ ũ n <s> <<g>> </s> |
+| Kwaza-1132-1 | Kwaza | 1132 | dãrã'ku | ɗ ã ɾ ã <s> <<k>> </s> u |
+| Kwaza-1134-1 | Kwaza | 1134 | hüürüp | h <s> <<ü>> </s> <s> <<ü>> </s> ɾ <s> <<ü>> </s> p |
+| Kwaza-1135-1 | Kwaza | 1135 | yf | ɨ <s> <<f>> </s> |
+| Kwaza-1136-1 | Kwaza | 1136 | ka'kau | <s> <<k>> </s> a <s> <<k>> </s> a u |
+| Kwaza-1137-1 | Kwaza | 1137 | kjõ | <s> <<k>> </s> j ɔ̃ |
+| Kwaza-1138-1 | Kwaza | 1138 | kuturu'?uuu | <s> <<k>> </s> u t u ɾ u ʔ u u u |
+| Kwaza-1141-1 | Kwaza | 1141 | tu'pũng | t u p ũ n <s> <<g>> </s> |
+| Kwaza-1148-1 | Kwaza | 1148 | uki'ri | u <s> <<k>> </s> i ɾ i |
+| Matsigenka-1933-1 | Matsigenka | 1933 | puérerere pu' | p ɨi e ɾ e ɾ e ɾ e + p ɨi <s> <<'>> </s> |
+| Matsigenka-1990-1 | Matsigenka | 1990 | ti' | t i <s> <<'>> </s> |
+| Palikur-1153-1 | Palikur | 1153 | hayh | h <s> ãj </s> |
+| Palikur-1154-1 | Palikur | 1154 | tatayh | t a t <s> ãj </s> |
+| Palikur-1156-1 | Palikur | 1156 | tayhr | t <s> ãj </s> ʁ |
+| Palikur-403-1 | Palikur | 403 | bẽ | b <s> <<ẽ>> </s> |
+| Parecis-1169-1 | Parecis | 1169 | wididi | w i <s> <<d>> </s> i <s> <<d>> </s> i |
+| Saramaccan-1198-1 | Saramaccan | 1198 | bangulá | b a <s> ŋᵍ </s> u l á |
+| Saramaccan-1200-2 | Saramaccan | 1200 | hamboo | h a <s> mᵇ </s> oː |
+| Saramaccan-1206-1 | Saramaccan | 1206 | dimbaa | d i <s> mᵇ </s> aː |
+| Saramaccan-1207-1 | Saramaccan | 1207 | dimbii | d i <s> mᵇ </s> iː |
+| Saramaccan-1229-1 | Saramaccan | 1229 | gba gíngí | gb a + g í <s> ŋᵍ </s> í |
+| Saramaccan-1239-1 | Saramaccan | 1239 | gbéíngbéín | gb é í <s> ŋᵍ </s> b é í n |
+| Saramaccan-1253-1 | Saramaccan | 1253 | gindi | g i <s> nᵈ </s> i |
+| Saramaccan-1254-1 | Saramaccan | 1254 | gíngín | g í <s> ŋᵍ </s> í n |
+| Saramaccan-1254-2 | Saramaccan | 1254 | gíngí | g í <s> ŋᵍ </s> í |
+| Saramaccan-1256-1 | Saramaccan | 1256 | göndöö | g ɔ <s> nᵈ </s> ɔː |
+| Saramaccan-1257-1 | Saramaccan | 1257 | dëngë | d ɛ <s> ŋᵍ </s> ɛ |
+| Saramaccan-1259-1 | Saramaccan | 1259 | gulumbuu | g u l u <s> mᵇ </s> uː |
+| Saramaccan-1260-1 | Saramaccan | 1260 | gumbaa | g u <s> mᵇ </s> aː |
+| Saramaccan-1261-1 | Saramaccan | 1261 | gundja | g u <s> nᶡ </s> a |
+| Saramaccan-1282-1 | Saramaccan | 1282 | lëngëë | l ɛ <s> ŋᵍ </s> ɛː |
+| Saramaccan-1295-2 | Saramaccan | 1295 | púngë | p ú <s> ŋᵍ </s> ɛ |
+| Saramaccan-1301-1 | Saramaccan | 1301 | tímbíí | t í <s> mᵇ </s> íː |
+| Saramaccan-1302-1 | Saramaccan | 1302 | tímbóó | t í <s> mᵇ </s> óː |
+| Saramaccan-1310-1 | Saramaccan | 1310 | tjóngóó | tʃ ó <s> ŋᵍ </s> óː |
+| Shuar-1607-1 | Shuar | 1607 | kuá̠ | k u á <s> <<̠>> </s> |
+| Shuar-1616-1 | Shuar | 1616 | kurú-krú | k u ɾ ú <s> <<->> </s> k ɾ ú |
+| Shuar-1624-1 | Shuar | 1624 | michak-michak’ | m i tʃ a k <s> <<->> </s> m i tʃ a k i̥ |
+| Shuar-1651-1 | Shuar | 1651 | pujut-téter | p u h u t <s> <<->> </s> t ɨ́ t ɨ ɾ |
+| Trio-1353-1 | Trio | 1353 | təŋ | t <s> <<ə>> </s> ŋ |
+| Tsafiki-1478-1 | Tsafiki | 1478 | biti: | b i t i <s> <<:>> </s> |
+| Tsafiki-1489-1 | Tsafiki | 1489 | dele:n | d e l e <s> <<:>> </s> n |
+| Urarina-1492-1 | Urarina | 1492 | hau | h <s> aw </s> |
+| Yanesha-1026-1 | Yanesha | 1026 | ku | k <s> <<u>> </s> |
+| Yanesha-1079-1 | Yanesha | 1079 | tsotcateñets | ts o t <s> <<c>> </s> a t e nʲ e ts |
 
 (100 rows)
 

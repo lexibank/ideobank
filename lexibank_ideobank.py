@@ -103,7 +103,6 @@ class Dataset(BaseDataset):
                 print('Missing language:', doculect)
 
             else:
-                print(source)
                 args.writer.add_forms_from_value(
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[english] if english != '' else concepts[spanish],
