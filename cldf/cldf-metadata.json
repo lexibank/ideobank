@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/lexibank/ideobank",
             "rdf:type": "prov:Entity",
-            "dc:created": "e9d3d7e",
+            "dc:created": "938b5c8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         },
         {

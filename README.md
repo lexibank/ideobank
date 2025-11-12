@@ -16,8 +16,8 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 79%](https://img.shields.io/badge/BIPA-79%25-yellow.svg "BIPA: 79%")
-![CLTS SoundClass: 79%](https://img.shields.io/badge/CLTS%20SoundClass-79%25-yellow.svg "CLTS SoundClass: 79%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 55 (linked to 55 different Glottocodes)
 - **Concepts:** 2,784 (linked to 0 different Concepticon concept sets)
@@ -25,17 +25,17 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Sources:** 56
 - **Synonymy:** 1.06
 - **Invalid lexemes:** 0
-- **Tokens:** 14,354
-- **Segments:** 230 (48 BIPA errors, 48 CLTS sound class errors, 182 CLTS modified)
-- **Inventory size (avg):** 21.71
+- **Tokens:** 14,274
+- **Segments:** 194 (0 BIPA errors, 0 CLTS sound class errors, 194 CLTS modified)
+- **Inventory size (avg):** 21.82
 
 # Contributors
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Frederic Blum | @FredericBlum | CLDF conversion | Author |
+Roberto Zariquiey | @rzariquiey | creator, data collection | Author |
 Jaime Montoya | @jaimerafaelms | data collection | Author |
-Roberto Zariquiey | | creator, data collection | Author |
+Frederic Blum | @FredericBlum | CLDF conversion | Author |
 
 
 

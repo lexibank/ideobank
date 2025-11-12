@@ -5,12 +5,12 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 1531 | ✓ | ✓ |
-| i | 1068 | ✓ | ✓ |
+| a | 1529 | ✓ | ✓ |
+| i | 1066 | ✓ | ✓ |
 | k | 1028 | ✓ | ✓ |
 | t | 904 | ✓ | ✓ |
-| o | 789 | ✓ | ✓ |
-| u | 784 | ✓ | ✓ |
+| u | 782 | ✓ | ✓ |
+| o | 750 | ✓ | ✓ |
 | ɾ | 732 | ✓ | ✓ |
 | e | 604 | ✓ | ✓ |
 | p | 587 | ✓ | ✓ |
@@ -40,11 +40,12 @@
 | ã | 63 | ✓ | ✓ |
 | y | 53 | ✓ | ✓ |
 | õ | 47 | ✓ | ✓ |
-| oː | 44 | ✓ | ✓ |
+| oː | 45 | ✓ | ✓ |
 | u̜ | 44 | ✓ | ✓ |
 | x | 43 | ✓ | ✓ |
+| aː | 42 | ✓ | ✓ |
 | ɨ́ | 42 | ✓ | ✓ |
-| aː | 41 | ✓ | ✓ |
+| o̤ | 39 | ✓ | ✓ |
 | nʲ | 37 | ✓ | ✓ |
 | ĩ | 37 | ✓ | ✓ |
 | ɸ | 37 | ✓ | ✓ |
@@ -60,8 +61,8 @@
 | ɪ | 30 | ✓ | ✓ |
 | tɕ | 29 | ✓ | ✓ |
 | f | 27 | ✓ | ✓ |
+| iː | 27 | ✓ | ✓ |
 | ɽ | 27 | ✓ | ✓ |
-| iː | 26 | ✓ | ✓ |
 | ɤ | 26 | ✓ | ✓ |
 | tsʰ | 25 | ✓ | ✓ |
 | χ | 25 | ✓ | ✓ |
@@ -95,13 +96,13 @@
 | kʷ | 10 | ✓ | ✓ |
 | k̚ | 10 | ✓ | ✓ |
 | z | 9 | ✓ | ✓ |
-| ŋᵍ | 9 | ? | ? |
+| ⁿg | 9 | ✓ | ✓ |
 | ɔ́ | 8 | ✓ | ✓ |
 | a̰ | 7 | ✓ | ✓ |
 | kp | 7 | ✓ | ✓ |
-| mᵇ | 7 | ? | ? |
 | ə́ | 7 | ✓ | ✓ |
 | ɺʲ | 7 | ✓ | ✓ |
+| ⁿb | 7 | ✓ | ✓ |
 | dz | 6 | ✓ | ✓ |
 | nˀ | 6 | ✓ | ✓ |
 | tʰ | 6 | ✓ | ✓ |
@@ -136,7 +137,6 @@
 | kʲʰ | 2 | ✓ | ✓ |
 | l̥ | 2 | ✓ | ✓ |
 | mˀ | 2 | ✓ | ✓ |
-| nᵈ | 2 | ? | ? |
 | tˀ | 2 | ✓ | ✓ |
 | ua | 2 | ✓ | ✓ |
 | u̥ | 2 | ✓ | ✓ |
@@ -155,6 +155,7 @@
 | ˀw | 2 | ✓ | ✓ |
 | θ | 2 | ✓ | ✓ |
 | ḭ | 2 | ✓ | ✓ |
+| ⁿd | 2 | ✓ | ✓ |
 | bʰ | 1 | ✓ | ✓ |
 | eˀ | 1 | ✓ | ✓ |
 | hː | 1 | ✓ | ✓ |
@@ -163,11 +164,10 @@
 | kˀ | 1 | ✓ | ✓ |
 | m̰ː | 1 | ✓ | ✓ |
 | n̰ | 1 | ✓ | ✓ |
-| nᶡ | 1 | ? | ? |
 | pː | 1 | ✓ | ✓ |
 | sʲ | 1 | ✓ | ✓ |
 | sˀ | 1 | ✓ | ✓ |
-| tʙ̥ | 1 | ? | ? |
+| tp | 1 | ✓ | ✓ |
 | ui | 1 | ✓ | ✓ |
 | uiː | 1 | ✓ | ✓ |
 | uːː | 1 | ✓ | ✓ |
@@ -198,8 +198,9 @@
 | ḭ́ | 1 | ✓ | ✓ |
 | ṍ | 1 | ✓ | ✓ |
 | ẽː | 1 | ✓ | ✓ |
+| ⁿɟ | 1 | ✓ | ✓ |
 
-(193 rows)
+(194 rows)
 
 
 
@@ -215,28 +216,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------|:-----------|----------:|:-----------|:---------------------------|
-| Karo-2844-2 | Karo | 2844 | t͜p̃u | <s> tʙ̥ </s> u |
-| Saramaccan-1198-1 | Saramaccan | 1198 | bangulá | b a <s> ŋᵍ </s> u l á |
-| Saramaccan-1200-2 | Saramaccan | 1200 | hamboo | h a <s> mᵇ </s> oː |
-| Saramaccan-1206-1 | Saramaccan | 1206 | dimbaa | d i <s> mᵇ </s> aː |
-| Saramaccan-1207-1 | Saramaccan | 1207 | dimbii | d i <s> mᵇ </s> iː |
-| Saramaccan-1229-1 | Saramaccan | 1229 | gba gíngí | gb a + g í <s> ŋᵍ </s> í |
-| Saramaccan-1239-1 | Saramaccan | 1239 | gbéíngbéín | gb é í <s> ŋᵍ </s> b é í n |
-| Saramaccan-1253-1 | Saramaccan | 1253 | gindi | g i <s> nᵈ </s> i |
-| Saramaccan-1254-1 | Saramaccan | 1254 | gíngín | g í <s> ŋᵍ </s> í n |
-| Saramaccan-1254-2 | Saramaccan | 1254 | gíngí | g í <s> ŋᵍ </s> í |
-| Saramaccan-1256-1 | Saramaccan | 1256 | göndöö | g ɔ <s> nᵈ </s> ɔː |
-| Saramaccan-1257-1 | Saramaccan | 1257 | dëngë | d ɛ <s> ŋᵍ </s> ɛ |
-| Saramaccan-1259-1 | Saramaccan | 1259 | gulumbuu | g u l u <s> mᵇ </s> uː |
-| Saramaccan-1260-1 | Saramaccan | 1260 | gumbaa | g u <s> mᵇ </s> aː |
-| Saramaccan-1261-1 | Saramaccan | 1261 | gundja | g u <s> nᶡ </s> a |
-| Saramaccan-1282-1 | Saramaccan | 1282 | lëngëë | l ɛ <s> ŋᵍ </s> ɛː |
-| Saramaccan-1295-2 | Saramaccan | 1295 | púngë | p ú <s> ŋᵍ </s> ɛ |
-| Saramaccan-1301-1 | Saramaccan | 1301 | tímbíí | t í <s> mᵇ </s> íː |
-| Saramaccan-1302-1 | Saramaccan | 1302 | tímbóó | t í <s> mᵇ </s> óː |
-| Saramaccan-1310-1 | Saramaccan | 1310 | tjóngóó | tʃ ó <s> ŋᵍ </s> óː |
+|------|------------|-----------|--------|------------|
 
-(20 rows)
+(0 rows)
 
 
