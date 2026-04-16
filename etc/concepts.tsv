@@ -2883,3 +2883,379 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2882	sound of ball being kicked					Basic actions and technology	AUDITORY
 2883	sound of hawk					Animals	AUDITORY
 2884	sound of hitting somebody with a stick					Basic actions and technology	AUDITORY
+2885	river rising	crecer_río					
+2886	to moan	gemir					
+2887	to cry	llorar					
+2888	to rejoice	alegrarse					
+2889	to wag tail	mover_cola					
+2890	to get stuck	atascarse					
+2891	birds singing clucking	canto_aves_cacarear					
+2892	to ferment	fermentar					
+2893	to run	correr					
+2894	to burst	reventar					
+2895	to tremble	temblar 					
+2896	to taste food	probar_alimento					
+2897	to clap	palmear					
+2898	to fan	abanicar					
+2899	to make a hole	agujerear					
+2900	to prune	podar					
+2901	to bubble	burbujear					
+2902	to shake a tree	sacudir_árbol					
+2903	to squirt liquids	salpicar_a_chorros_líquidos					
+2904	to hang	colgar					
+2905	water flowing	correr_agua					
+2906	to cry a lot	llorar_mucho					
+2907	frizzy	encrespado					
+2908	to touch with the foot	tocar_con_pie					
+2909	to play the drum	tocar_tambor					
+2910	to cut into pieces	cortar_pedazos					
+2911	itchy neck	picar_cuello					
+2912	strong wind blowing	soplar_viento_fuerte					
+2913	to sting	picar					
+2914	to stink	oler_mal					
+2915	to move in water	mover_en_agua					
+2916	to cut with an axe/machete	cortar_con_hacha/machete					
+2917	to grunt	gruñir					
+2918	to rain	llover					
+2919	to spin	girar					
+2920	to erase	borrar					
+2921	to shake clothes	sacudir_ropa 					
+2922	freckled	pecoso					
+2923	to play the tambourine	tocar_pandereta					
+2924	quickly	rápidamente					
+2925	to move slowly	mover_despacio					
+2926	to writhe	retorcerse					
+2927	to hit with a stick	golpear_palo					
+2928	to turn around	dar_vuelta					
+2929	to flash (lightning)	relampaguear					
+2930	to roll up	enrollar					
+2931	to squeeze	estrujar					
+2932	to burp	eructar					
+2933	to sneeze	estornudar					
+2934	to babble	balbucear					
+2935	to snore	roncar					
+2936	to murmur	murmurar 					
+2937	to shout	gritar					
+2938	to pour liquid	servir_líquido					
+2939	to shiver	tiritar					
+2940	to weep softly	llorar_suave					
+2941	to grind teeth	rechinar_dientes					
+2942	to rub a sting/bite	frotar_picadura					
+2943	to zigzag	zigzaguear					
+2944	to expectorate	espectorar					
+2945	to talk in one's sleep	hablar_en_sueños					
+2946	rolling waves	mover_olas					
+2947	generic animal vocalization	vocalización_animal_generico					
+2948	to scold	reñir					
+2949	to reprimand	reprender					
+2950	to roar	rugir					
+2951	to swallow noisily	tragar_ruidosamente					
+2952	to swallow liquid	tragar_líquido					
+2953	generic noise	ruido_genérico					
+2954	to sing	cantar					
+2955	to still be hungry	seguir_con_hambre					
+2956	stomach rumbling	temblar_estómago					
+2957	to drag oneself	arrastrarse					
+2958	to throb noisily	palpitar_ruidosamente					
+2959	to drizzle	chispear					
+2960	to pant	jadear					
+2961	to poke	hincar					
+2962	to lie	mentir 					
+2963	to hit the ground	golpear_suelo					
+2964	to move a limb	mover_extremidad					
+2965	to break by pulling	romper_tirando					
+2966	to rub skin	frotar_piel					
+2967	to drip	gotear					
+2968	to trip	tropezar					
+2969	to pour 	verter					
+2970	thunder	trueno 					
+2971	collared peccary vocalization	vocalizacion_sajino 					
+2972	to murmur	murmurar					
+2973	to whisper	susurrar					
+2974	to cough	toser					
+2975	to convulse	convulsionar					
+2976	to cramp	acalambrar					
+2977	to drizzle	llover_suave					
+2978	to butcher an animal	cortar_animal					
+2979	receding floodwaters	bajar_crecida					
+2980	to buzz	zumbar					
+2981	to sink	hundir 					
+2982	to snap	chasquear					
+2983	to shoot	disparar					
+2984	to pull	jalar					
+2985	to shake	agitar					
+2986	to shake	agitar 					
+2987	to hit the floor	golpear_piso					
+2988	to be dying	agonizar					
+2989	to fire a shotgun	disparar_escopeta					
+2990	sound of a broken shotgun	sonido_escopeta_rota					
+2991	engine	motor					
+2992	sudden sound	sonido_repentino					
+2993	to play the drum	tocar_tambor 					
+2994	white-lipped peccary eating huincungo palm fruit	comer_huincungo_huangana					
+2995	to itch	dar_comezón					
+2996	to knock on the door	golpear_puerta					
+2997	to tremble with pain	temblar_de_dolor					
+2998	to suck	chupar					
+2999	to sigh	suspirar 					
+3000	to hiccup	hipar 					
+3001	to breathe with difficulty	respirar_con_dificultad 					
+3002	to hit several times	golpear_varias_veces					
+3003	to chew	masticar					
+3004	sudden noise	ruido_repentino					
+3005	stomach rumbling	sonar_estómago					
+3006	to cut (generic)	cortar_genérico					
+3007	to crumble	desmenuzar 					
+3008	to chop firewood into small pieces	partir_leña_menuda					
+3009	to pop corn	reventar_maiz					
+3010	to break tree roots	romper_raíces_arbol					
+3011	to stutter	tartamudear					
+3012	to sweep	barrer					
+3013	to splash liquid	salpicar_líquido					
+3014	to cut paper	cortar_papel					
+3015	to cry a lot	llorar_mucho 					
+3016	to scrape with a machete/knife	raspar_con_machete/cuchillo					
+3017	to tremble	temblar					
+3018	to be hungry	tener_hambre					
+3019	to choke	atragantarse					
+3020	to rinse mouth	enjuagar_boca					
+3021	to laugh	reír					
+3022	to have a runny nose	moquear					
+3023	to whistle	silbar					
+3024	to blow on an object	soplar_objeto					
+3025	to complain of pain	quejarse_de_dolor					
+3026	to extend	extender					
+3027	jaguar vocalization	vocalizacion_jaguar 					
+3028	general animals vocalization	vocalizacion_animales_generico					
+3029	to choke on liquid	atorarse_líquido					
+3030	to spit	escupir 					
+3031	to boil	hervir					
+3032	cat vocalization	vocalizacion_gato 					
+3033	to knead	amasar					
+3034	to sip	sorber					
+3035	to stomp	zapatear					
+3036	to hit clothes	golpear_ropa					
+3037	heart beating	palpitar_corazón					
+3038	to itch	picar					
+3039	to stink	apestar					
+3040	wind blowing	soplar_viento					
+3041	to steam	vaporear					
+3042	to sand	lijar					
+3043	to gnaw	royer					
+3044	to growl	gruñir					
+3045	to scatter	esparcir					
+3046	to spill liquid	derramar_líquido					
+3047	to rain heavily	llover_fuerte 					
+3048	sun burning	quemar_sol					
+3049	snake hissing	zumbar_serpiente 					
+3050	snake wagging tail	mover_cola_serpiente					
+3051	to shake (generic)	sacudir_genérico					
+3052	body aching	doler_cuerpo 					
+3053	to poke with a finger	hincar_con_dedo					
+3054	to jump	saltar					
+3055	wound throbbing	palpitar_herida					
+3056	to sway	balancearse					
+3057	to be thirsty	tener_sed					
+3058	to clear one's throat	carraspear					
+3059	to get aroused	excitarse					
+3060	to talk a lot	hablar_mucho					
+3061	to stagger	caminar_tumbos 					
+3062	to creak	crujir					
+3063	to nail	clavar					
+3064	to peck	picotear					
+3065	to scratch	rascar					
+3066	to crack knuckles	crujir_dedos					
+3067	to hit wood	golpear_madera 					
+3068	dog vocalization	vocalizacion_perro					
+3069	to drizzle	lloviznar					
+3070	to shake an animal	sacudir_animal					
+3071	skin burning	arder_piel  					
+3072	to groan with pain	quejarse_de_dolor					
+3073	to swing like a pendulum	mover_pendularmente					
+3074	to get angry	enojarse 					
+3075	to move in a circle	mover_circular 					
+3076	to be hot (weather)	hacer_calor					
+3077	to spray liquid	rociar_líquido					
+3078	bright	brillante					
+3079	to flatten	aplanar					
+3080	to scratch	arañar					
+3081	to tear open	romper_rasgando					
+3082	sound of leaves	ruido_hojas					
+3083	to scare away	espantar					
+3084	birds singing	canto_aves					
+3085	beautiful fabric	bonito_tela					
+3086	several falling	caer_varios					
+3087	to throb	palpitar					
+3088	to push (a canoe) with a pole	tanganear					
+3089	to gather	juntar					
+3090	to toast corn	tostar_maíz					
+3091	to break by snapping	romper_quebrando					
+3092	to talk fast	hablar_rápido					
+3093	turtle vocalization	vocalizacion_tortuga					
+3094	to screech	chillar 					
+3095	to bark	ladrar					
+3096	to gnaw	roer					
+3097	sound of water	sonido_agua					
+3098	to scream in a nightmare	gritar_pesadilla					
+3099	to enter	entrar					
+3100	general animal vocalization	vocalización_animal_genérico					
+3101	to hit (making noise)	golpear_ruido					
+3102	to scrape	raspar					
+3103	to move in waves	mover_onda					
+3104	to crush	machacar					
+3105	to chew	masticar      					
+3106	to move mud	mover_barro					
+3107	to crunch	crujir					
+3108	to exclaim	exclamar					
+3109	to flutter	revolotear					
+3110	to throw out water	botar_agua					
+3111	to pull off, to come off	desprender a tirones, desprenderse					
+3112	to make sound	hacer sonar					
+3113	sound of branches	sonido_ramas					
+3114	to step on mud	pisar_sobre_barro					
+3115	to flap wings	aletear					
+3116	to obstruct	obstaculizar					
+3117	to boil vigorously	hervir a borbollones					
+3118	buzzing in the ear	zumbar_oído					
+3119	to buzz in the ear	zumbar al oido					
+3120	to fall on the ground	caer_en_suelo					
+3121	to flame	flamear					
+3122	to gush	chorrear					
+3123	to pierce	perforar					
+3124	to flap wings	aletear 					
+3125	to make flow (a liquid)	hacer fluir, hacer correr (un líquido)					
+3126	to sing softly	cantar_suave					
+3127	to empty liquid	vaciar_líquido					
+3128	to feel unwell	sentir_malestar					
+3129	to scrape a hard object	raspar_algo_duro 					
+3130	to hit with a metallic object	golpear_con_objeto_metálico					
+3131	to put in water	poner_en_agua 					
+3132	to put in a hole	poner_en_hueco					
+3133	to slide	deslizarse					
+3134	to fall gently	caer_suave					
+3135	to open (water)	abrir_agua					
+3136	to uproot a plant	arrancar_planta					
+3137	pig grunting	gruñir_cerdo					
+3138	to blow through the nose	soplar_por_nariz					
+3139	to pull out	arrancar					
+3140	to come untied	desatarse					
+3141	to scream in fright	gritar_susto					
+3142	to lull	arrullar					
+3143	to shake (generic)	sacudir_genérico 					
+3144	to yawn	bostezar					
+3145	to smell	oler					
+3146	to move fast	mover_rápido					
+3147	to be hoarse	ronco_estar					
+3148	to play the flute	tocar_flauta					
+3149	to shake dry leaves	sacudir_hojas_secas					
+3150	to buzz or whiz	zurrir					
+3151	to fry	freír					
+3152	sound inside an object	sonido_interior_objeto					
+3153	to slither	culebrear					
+3154	birdsong	canto_aves					
+3155	to get scared	asustarse					
+3156	to shoot with an arrow	flechar					
+3157	to hit gently	golpear_suave					
+3158	to rattle	traquetear					
+3159	to crash 	chocar					
+3160	to hit with a spoon	golpear_con_cuchara					
+3161	to make noise (shoes)	hacer ruido, sonar (los zapatos)					
+3162	to urinate bit by bit	orinar_poco_a_poco					
+3163	to warble	gorjear					
+3164	to move in waves	mover_olas					
+3165	throat moving	mover_garganta 					
+3166	to thunder	tronar					
+3167	to squash	despachurrar					
+3168	to creak	rechinar					
+3169	to imitate the tapir's whistle, tapir's whistle	imitar el silbido de la sachavaca, silbar la sachavaca. onomatopeya del silbido de la sachavaca.					
+3170	to fall into water	caer_en_agua					
+3171	to shriek	chillar 					
+3172	birds chirping	canto_aves_piar					
+3173	animal vocalization (generic)	vocalizacion_animales_generico					
+3174	to snort	resoplar					
+3175	monkey vocalization	vocalización_mono					
+3176	to hiss	sisear					
+3177	to hit the canoe	golpear_canoa					
+3178	animal vocalization (generic)	vocalización_animal_genérico					
+3179	to spit	escupir					
+3180	to nod or shake one's head	cabecear					
+3181	to break (generic)	romper_genérico					
+3182	to move water	mover_agua					
+3183	tapir vocalization	vocalizacion_sachavaca					
+3184	to splash	chapotear					
+3185	to move	mover					
+3186	to cut with axe/machete	cortar_con_hacha/machete					
+3187	to come out of the water	salir_del_agua					
+3188	to twinkle	centellear					
+3189	to shake oneself	sacudirse					
+3190	animal screeching	chillar_animal					
+3191	rumbling	retumbar					
+3192	to enter water	entrar_en_agua					
+3193	to groan with effort, to push (labor)	pujar					
+3194	to hit a hard thing	golpear_cosa_dura					
+3195	to hit (generic)	golpear_genérico					
+3196	to crush, to flatten	aplastar					
+3197	to poke (the fire)	atizar					
+3198	to cut a palm tree	cortar_palmera					
+3199	to singe	chamuscar					
+3200	jaguar roaring	rugir_jaguar					
+3201	to move in spasms	mover_espasmo					
+3202	to slip away	escurrirse					
+3203	to tickle	cosquillear					
+3204	stomach rumbling	sonar_estomago					
+3205	to rock, to sway	mecer					
+3206	to call someone	llamar_alguien					
+3207	exclamation	exclamación					
+3208	to speak	hablar					
+3209	to burn	quemar					
+3210	frog	rana					
+3211	faint sound	sonido_leve					
+3212	bird	pájaro					
+3213	to slide	resbalar					
+3214	to row	remar					
+3215	to sing nearby	cantar_cerca					
+3216	to swell	hinchar					
+3217	to play the rattle	tocar_sonaja					
+3218	to shriek	chillar					
+3219	to fry	freir					
+3220	to unroll	desenrollar					
+3221	gargling	gárgaras					
+3222	to click	chasquear					
+3223	toad	sapo					
+3224	to purr	ronronear					
+3225	to arch	arquearse					
+3226	to caress	cariñar					
+3227	to shake cotton	sacudir_algodon					
+3228	to hop	brincar					
+3229	earth shaking	temblar_tierra					
+3230	to step on	pisar					
+3231	to whip	azotar					
+3232	heavy rain	lluvia_fuerte					
+3233	to peel	pelar					
+3234	fire burning	arder_fuego					
+3235	to follow	seguir					
+3236	to scatter, to spread	esparcir					
+3237	to feel an electric shock	sentir_descarga_eléctrica					
+3238	dog shaking	sacudir_perro					
+3239	to rub	frotar					
+3240	unpleasant sensation on teeth	dentera					
+3241	to shout while crying/laughing	gritar_llorando_riendo					
+3242	to shake feet	sacudir_pies					
+3243	to hit with a stick	golpear_con_palo					
+3244	to crash	chocar					
+3245	to mash	machacar					
+3246	to kiss	besar					
+3247	to move the body	mover_cuerpo					
+3248	to suck (on oneself)	chuparse					
+3249	to honk a horn	tocar_bocina					
+3250	to tattoo	tatuar					
+3251	to move things	mover_cosas					
+3252	to crumble	desmenuzar					
+3253	fetus kicking	patear_feto					
+3254	to repeat	repetir					
+3255	to rub the forehead	frotar_frente					
+3256	to become thin	adelgazar					
+3257	to make faces	hacer_muecas					
+3258	uneven, mismatched	disparejo					
+3259	to nod	asentir					
+3260	to pile up	amontonar					
