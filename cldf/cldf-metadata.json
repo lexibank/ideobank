@@ -10,7 +10,7 @@
         {
             "rdf:about": "https://github.com/lexibank/ideobank",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-8-g6250318",
+            "dc:created": "v0.1-9-g91443ef",
             "dc:title": "Repository"
         },
         {
