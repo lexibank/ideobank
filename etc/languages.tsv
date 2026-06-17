@@ -21,13 +21,13 @@ Apalai	Apalaí	apal1257	Caribe	40	Koehn1986	y
 Trio	Trió	trio1238	Caribe	28	Carlin2004	y
 Waiwai	Waiwai	waiw1244	Caribe	23	Hawkins1998	y
 Yekwana	Ye'kwana	maqu1238	Caribe	14	Cáceres2011	y
-Akawaio	Akawaio	akaw1241	Caribe	11	Ceasar-Fox2003	y
+Akawaio	Akawaio	akaw1239	Caribe	11	Ceasar-Fox2003	y
 GalibiCarib	Galibi Carib	gali1262	Caribe	3	Hoff1968	y
 Wari	Wari'	wari1268	Chapacuran	215	Everett1997	y
 Shuar	Shuar	shua1257	Chicham	384	Pellizaro2005	y
 Huambisa	Huambisa	huam1247	Chicham	45	Peña2015	y
 Aguaruna	Aguaruna	agua1253	Chicham	21	Overall2007	y
-Shiwiar	Shiwiar	shiw1235	Chicham	15	Kohlberger2020	y
+Shiwiar	Shiwiar	achu1248	Chicham	15	Kohlberger2020	y
 Waorani	Waorani	waor1240	Lengua aislada	70	Gaba2011	n
 Yuracare	Yuracaré	yura1255	Lengua aislada	41	VanGijn2006	y
 Kwaza	Kwaza	kwaz1243	lengua aislada	20	vanderVoort2004	y
@@ -41,7 +41,7 @@ Yaminawa	Yaminawa	yami1256	Pano	95	Shive2021	n
 Iskonawa	Iskonawa	isco1239	Pano	86	Zariquiey2016	y
 CashiboCacataibo	Cashibo-Cacataibo	cash1251	Pano	13	Valle2017	y
 Yagua	Yagua	yagu1244	Peba-Yagua	71	Powlison1995	y
-PastazaQuechua	Pastaza Quechua	past1249	Quechua II	240	Nuckolls2025	n
+PastazaQuechua	Pastaza Quechua	nort2973	Quechua II	240	Nuckolls2025	n
 ImbaburaHighlandQuichua	Imbabura Highland Quichua	imba1240	Quechua II	56	Cole1985	y
 Cavinena	Cavineña	cavi1250	Tacana	33	Guillaume2008	y
 Araona	Araona	arao1248	Tacana	1	Emkow2006	y
@@ -55,3 +55,10 @@ CocamaCocamilla	Cocama-Cocamilla	coca1259	Tupí-Guaraní	34	Vallejos2016	y
 CocamaCocamilla	Cocama-Cocamilla	coca1259	Tupí-Guaraní	34	Vallejos2015	y
 Yanomamo	Yanomamö	yano1261	Yanomamic	24	Lizot2004	y
 Sanuma	Sanumá	sanu1240	Yanomamic	20	Borgman1990	y
+ShipiboKonibo	Shipibo-Konibo	ship1254	Pano			y
+Amawaka	Amawaka	amah1246	Pano		y
+Chacobo	Chacobo	chac1251	Pano		y
+Kashinawa	Kashinawa	cash1254	Pano		y
+Kapanawa	Kapanawa	capa1241	Pano		y
+Sharanawa	Sharanawa	shar1245	Pano		y
+Matses	Matses	mats1244	Pano		y

@@ -1,15 +1,13 @@
 Grapheme	IPA	Frequence	Codepoints
 i	i		
 a	a		
-o	u̜		
-e	ɨ		
 p	p		
 t	t		
 k	k		
 m	m		
 n	n		
 ts	ts		
-ch	tʃ		
+tʃ	tʃ		
 b	β		
 s	s		
 sh	ʃ		
@@ -18,3 +16,13 @@ r	ɾ
 ó	o		
 y	j		
 w	w		
+β	β
+u	u
+ɨ	ɨ
+ɾ	ɾ
+ʔ	ʔ
+ʃ	ʃ
+ʂ	ʂ
+o	o
+c	k
+j	j

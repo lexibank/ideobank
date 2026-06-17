@@ -1,26 +1,26 @@
 import pathlib
+import dataclasses
 from collections import defaultdict
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Lexeme, Concept
 from lingpy import Wordlist
-import attr
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomConcept(Concept):
-    Spanish = attr.ib(default=None)
-    Portuguese = attr.ib(default=None)
-    Simplified = attr.ib(default=None)
-    SemanticField = attr.ib(default=None)
-    SensoryCategory = attr.ib(default=None)
+    Spanish: Optional[str] = None
+    Portuguese: Optional[str] = None
+    Simplified: Optional[str] = None
+    SemanticField: Optional[str] = None
+    SensoryCategory: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLexeme(Lexeme):
-    Reduplication = attr.ib(default=None)
-    ReduplicationNotes = attr.ib(default=None)
-    Page = attr.ib(default=None)
+    Reduplication: Optional[str] = None
+    ReduplicationNotes: Optional[str] = None
+    Page: Optional[str] = None
 
 
 class Dataset(BaseDataset):
@@ -49,6 +49,7 @@ class Dataset(BaseDataset):
                     Concepticon_ID='',
                     Concepticon_Gloss=''
             )
+
             if concept["ENGLISH"] == '':
                 concepts[concept["SPANISH"]] = concept["ID"]
             else:

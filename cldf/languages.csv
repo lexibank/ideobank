@@ -21,13 +21,13 @@ Apalai,Apalaí,apal1257,Apalaí,apy,South America,1.49792,-54.7457,Cariban
 Trio,Trió,trio1238,Trió,tri,South America,2.53616,-55.7599,Cariban
 Waiwai,Waiwai,waiw1244,Waiwai,waw,South America,1.50881,-59.1417,Cariban
 Yekwana,Ye'kwana,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban
-Akawaio,Akawaio,akaw1241,Akawaio,,South America,,,Cariban
+Akawaio,Akawaio,akaw1239,Akawaio-Ingariko,ake,South America,6.16277,-60.862,Cariban
 GalibiCarib,Galibi Carib,gali1262,Galibi Carib,car,South America,5.83772,-56.8323,Cariban
 Wari,Wari',wari1268,Wari',pav,South America,-10.69948,-64.56152,Chapacuran
 Shuar,Shuar,shua1257,Shuar,jiv,South America,-3.45136,-78.1892,Chicham
 Huambisa,Huambisa,huam1247,Huambisa,hub,South America,-3.99109,-77.9797,Chicham
 Aguaruna,Aguaruna,agua1253,Aguaruna,agr,South America,-5.30044,-77.9218,Chicham
-Shiwiar,Shiwiar,shiw1235,Shiwiar,,South America,,,Chicham
+Shiwiar,Shiwiar,achu1248,Achuar-Shiwiar,acu,South America,-2.82646,-77.2641,Chicham
 Waorani,Waorani,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani
 Yuracare,Yuracaré,yura1255,Yuracaré,yuz,South America,-16.7479,-65.1224,Yuracaré
 Kwaza,Kwaza,kwaz1243,Kwaza,xwa,South America,-11.6667,-61.1833,Kwaza
@@ -41,12 +41,12 @@ Yaminawa,Yaminawa,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tac
 Iskonawa,Iskonawa,isco1239,Isconahua,isc,South America,-7.75236,-74.5193,Pano-Tacanan
 CashiboCacataibo,Cashibo-Cacataibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan
 Yagua,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua
-PastazaQuechua,Pastaza Quechua,past1249,Pastaza Quechua,,,,,Quechuan
+PastazaQuechua,Pastaza Quechua,nort2973,Northern Pastaza Quichua,qvz,South America,-1.88573,-76.0389,Quechuan
 ImbaburaHighlandQuichua,Imbabura Highland Quichua,imba1240,Imbabura Highland Quichua,qvi,South America,0.31776,-78.3729,Quechuan
 Cavinena,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan
 Araona,Araona,arao1248,Araona,aro,South America,-12.4242,-67.7293,Pano-Tacanan
 BarasanaEduria,Barasana-Eduria,bara1380,Barasana-Eduria,bsn,South America,0.02193,-70.808,Tucanoan
-Karitiana,Karitiâna,kari1312,Karipuna,,South America,-10.0,-65.5,Pano-Tacanan
+Karitiana,Karitiâna,kari1312,Karipuna Pano,,South America,-10.0,-65.5,Pano-Tacanan
 Karo,Karo,karo1305,Karo (Brazil),arr,South America,-10.3342,-61.5691,Tupian
 Aweti,Awetí,awet1244,Awetí,awe,South America,-12.381944,-53.391944,Tupian
 Akuntsu,Akuntsu,akun1241,Akuntsu,aqz,South America,-12.8322,-60.9716,Tupian
@@ -54,3 +54,10 @@ UrubuKaapor,Urubú-Kaapor,urub1250,Urubú-Kaapor,urb,South America,-2.46455,-46.
 CocamaCocamilla,Cocama-Cocamilla,coca1259,Cocama-Cocamilla,cod,South America,-4.5,-74.0,Tupian
 Yanomamo,Yanomamö,yano1261,Yanomamö,guu,South America,1.67967,-64.8781,Yanomamic
 Sanuma,Sanumá,sanu1240,Sanumá,xsu,South America,4.5,-64.5,Yanomamic
+ShipiboKonibo,Shipibo-Konibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan
+Amawaka,Amawaka,amah1246,Amahuaca,amc,South America,-10.2012,-72.3208,Pano-Tacanan
+Chacobo,Chacobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan
+Kashinawa,Kashinawa,cash1254,Cashinahua,cbs,South America,-9.72027,-71.1733,Pano-Tacanan
+Kapanawa,Kapanawa,capa1241,Capanahua,kaq,South America,-6.63254,-74.3813,Pano-Tacanan
+Sharanawa,Sharanawa,shar1245,Sharanahua,mcd,South America,-9.8626,-71.1232,Pano-Tacanan
+Matses,Matses,mats1244,Matsés,mcf,South America,-5.73914,-72.6281,Pano-Tacanan

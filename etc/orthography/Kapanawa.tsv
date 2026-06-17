@@ -1,9 +1,9 @@
 Grapheme	IPA	Frequence	Codepoints
 a	a		
 ch	tʃ		
+e	ɯ		
 f	ɸ		
 i	ɪ		
-j	h		
 k	k		
 m	m		
 n	n		
@@ -15,18 +15,19 @@ sh	ʃ
 t	t		
 ts	ts		
 x	ʂ		
-y	j		
 ã	ã		
 ẽ	ɯ̃		
 ĩ	ɪ̃		
 õ	õ		
+ɨ	ɨ
+u	u
+ʂ	ʂ
 tʃ	tʃ
 ʔ	ʔ
 ʃ	ʃ
-ʂ	ʂ
 β	β
-ɨ	ɨ
-u	u
 w	w
 ɾ	ɾ
-e	ɨ
+h	h
+j	j
+c	k

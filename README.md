@@ -13,21 +13,27 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/lexibank/ideobank/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/ideobank/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 0%](etc/badge_concepts.svg)
+![Source: 82%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
-- **Varieties:** 55 (linked to 55 different Glottocodes)
-- **Concepts:** 2,784 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 3,170
-- **Sources:** 56
-- **Synonymy:** 1.06
+- **Varieties:** 62 (linked to 62 different Glottocodes)
+- **Concepts:** 2,931 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 3,621
+- **Sources:** 53
+- **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 14,274
-- **Segments:** 194 (0 BIPA errors, 0 CLTS sound class errors, 194 CLTS modified)
-- **Inventory size (avg):** 21.82
+- **Tokens:** 16,129
+- **Segments:** 189 (0 BIPA errors, 0 CLTS sound class errors, 189 CLTS modified)
+- **Inventory size (avg):** 21.18
+
+## Possible Improvements:
+
+- Entries missing sources: 645/3621 (17.81%%)
+
 
 # Contributors
 

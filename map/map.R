@@ -9,7 +9,7 @@ library(viridisLite) # v0.4.2
 library(viridis) # v0.6.3
 
 # Loading the data
-languages <- read_csv('cldf/languages.csv')
+languages <- read_csv('../cldf/languages.csv')
 
 # Downloading the map
 spdf_sa <- ne_countries(continent=c("south america"),

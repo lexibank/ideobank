@@ -11,18 +11,20 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/ideobank
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/ideobank/tree/938b5c8">lexibank/ideobank 938b5c8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.14.0</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/ideobank/tree/cdab902">lexibank/ideobank  v0.1-5-gcdab902</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.14.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | ideobank
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
 
 ## <a name="table-formscsv"></a>Table [forms.csv](./forms.csv)
 
+CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: str | None = None, Segments: list[str] = <factory>, Graphemes: list[str] | None = None, Profile: str | None = None, Source: list[str] = <factory>, Comment: str | None = None, Cognacy: str | None = None, Loan: bool | None = None, Reduplication: Optional[__annotationlib_name_1__] = None, ReduplicationNotes: Optional[__annotationlib_name_2__] = None, Page: Optional[__annotationlib_name_3__] = None)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 3170
+[dc:extent](http://purl.org/dc/terms/extent) | 3621
 
 
 ### Columns
@@ -48,10 +50,12 @@ Name/Property | Datatype | Description
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
+A language.
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 55
+[dc:extent](http://purl.org/dc/terms/extent) | 62
 
 
 ### Columns
@@ -70,10 +74,12 @@ Name/Property | Datatype | Description
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
+CustomConcept(ID: str | None = '', Name: str | None = '', Concepticon_ID: str | None = None, Concepticon_Gloss: str | None = None, Spanish: Optional[__annotationlib_name_1__] = None, Portuguese: Optional[__annotationlib_name_2__] = None, Simplified: Optional[__annotationlib_name_3__] = None, SemanticField: Optional[__annotationlib_name_4__] = None, SensoryCategory: Optional[__annotationlib_name_5__] = None)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2784
+[dc:extent](http://purl.org/dc/terms/extent) | 2931
 
 
 ### Columns
@@ -89,4 +95,3 @@ Name/Property | Datatype | Description
 `Simplified` | `string` | 
 `SemanticField` | `string` | 
 `SensoryCategory` | `string` | 
-

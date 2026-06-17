@@ -35,14 +35,14 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 34	grabbing something	agarrar algo			to grab	Basic actions and technology	VISUAL
 35	entering (house, cave etc) [sic]	entrar (a una casa, a una cueva, etc.)			to enter	Motion	VISUAL
 36	a part snapping off	quebrarse una parte			snap off	Basic actions and technology	AUDITORY
-37	tells the listener to "pay attention"	indica al oyente que "preste atención"		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word".	paying attention	OTHER	?
+37	tells the listener to pay attention	indica al oyente que "preste atención"		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word".	paying attention	OTHER	?
 38	sudden absence / sudden action	ausencia repentina / acción repentina			suddenly	Motion	?
 39	describes a distance for throwing an object	describe la distancia de lanzar un objeto			throw	Motion	VISUAL
 40	the sound of an object landing heavily into the water	el sonido de un objeto cayendo pesadamente en el agua			landing heavily into water	Motion	AUDITORY, VISUAL
 41	crawling away	arrastrarse			crawling	Basic actions and technology	VISUAL
 42	expression denoting something is abput to happen	expresión que denota que algo está a punto de pasar		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word".	starting	OTHER	?
 43	expression of glee asking listeners to pay attention to the leading character in the story, who is about to outwit the opressor	expresión de júbilo pidiéndole a los oyentes que presten atención al personaje principal del cuento		JMS: No estoy seguro de que sea un ideófono, parece una interjección, el autor lo llama "sound symbolic word".	paying attention	OTHER	?
-44	empathising expression "poor one"	expresión empática "pobrecito"		JMS: No parece ideófono, sino interjección.	poor one!	OTHER	?
+44	empathising expression poor one	expresión empática "pobrecito"		JMS: No parece ideófono, sino interjección.	poor one!	OTHER	?
 45	an object or someone falling slowly onto the ground	algo o alguien cayendo lentamente al suelo			to fall slowly	Motion	VISUAL
 46	the flying of a huge bird such as the eagle	el vuelo de un ave grande como por ejemplo el águila			big bird flying	Animals	VISUAL
 47	the clumsy dancing of a huge person such a a giant	el baile torpe de una persona grande como por ejemplo un gigante			clumsy dancing	Basic actions and technology	VISUAL
@@ -414,7 +414,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 413	a signal of joy	señal de felicidad			joy	Emotion and values	INTERNAL STATE
 414	the sound of knocking	sonido de tocar, dar golpecitos			knocking	Basic actions and technology	AUDITORY
 415	bark	ladrar		Este ideófono es un verbo.	bark	Animals	AUDITORY
-416	tõi", name of a small green parrot who says "tõi tõi tõi	tõi", nombre de un lorito verde que dice "tõi tõi tõi			parrot species	Animals	AUDITORY
+416	tõi, name of a small green parrot who says "tõi tõi tõi"	tõi", nombre de un lorito verde que dice "tõi tõi tõi			parrot species	Animals	AUDITORY
 417	name of a bird who says "waipaiyo"	nombre de un ave que dice "waipayo"			bird species	Animals	AUDITORY
 418	sound of toucan	sonido de tucán			toucan	Animals	AUDITORY
 419	drops of sweat	gotas de sudor			sweat	The body	VISUAL
@@ -455,7 +455,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 454	singing of "bëi bëi" bird	canto de ave llamada "bëi bëi"			bird species	Animals	AUDITORY
 455	singing of "kana kana" bird	canto de ave llamada "kana kana"			bird species	Animals	AUDITORY
 456	singing of "pux pux" bird	canto de ave llamaba "pux pux"			bird species	Animals	AUDITORY
-457	hoping ambulation of vultures	gallinazos deambulando dando saltos			vulture hopping	Animals	VISUAL
+457	hopping ambulation of vultures	gallinazos deambulando dando saltos			vulture hopping	Animals	VISUAL
 458	when birds lift their wings for flight but then freeze	cuando un ave levanta sus alas para volar pero luego se queda inmóvil			bird lifting wings	Animals	VISUAL
 459	turning off of lights or motors	motor o luz apagándose			turn off	Basic actions and technology	VISUAL, AUDITORY
 460	single booms of thunder	truenos individuales			thunder	The physical world	AUDITORY
@@ -627,7 +627,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 626	buzzing (bee, wasp, hummingbird)	zumbido (abeja, avispa, colibrí)		Semantic field: Animal and nature actions	buzzing	Animals	AUDITORY
 627	solid object colliding with another solid object	objeto sólido chocando con otro objeto sólido		Semantic field: Sounds of objects being manipulated, breaking, colliding	solid objects colliding	Basic actions and technology	VISUAL, AUDITORY
 628	object falling into the fire	objeto cayendo en el fuego		Semantic field: Sounds of objects being manipulated, breaking, colliding	falling into fire	Motion	VISUAL, AUDITORY
-629	sound of water dripping, rocks, snails or rattle being moved,				dripping sound	Motion	VISUAL, AUDITORY
+629	sound of water dripping, rocks, snails or rattle being moved, also sound of muzzle-loader rifle				dripping sound	Motion	VISUAL, AUDITORY
 630	also sound of muzzle-loader rifle	sonido de agua derramándose; mover rocas, caracoles o sonajas; sonido de rifle de avancarga		Semantic field: Sounds of objects being manipulated, breaking, colliding	rifle	Basic actions and technology	AUDITORY, VISUAL
 631	different objects crashing on each other	diferentes objetos chocando unos con otros		Semantic field: Sounds of objects being manipulated, breaking, colliding	crashing	Basic actions and technology	VISUAL, AUDITORY
 632	sound of palm leaves being pulled out	sonido de hojas de palma siendo arrancadas		Semantic field: Sounds of objects being manipulated, breaking, colliding	pulling out palm leaves	Agriculture and vegetation	AUDITORY
@@ -1137,7 +1137,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1136	bang! (the sharp sound of e.g. a revolver)	¡bang! (sonido intenso de p. ej. un revólver)			bang	Basic actions and technology	AUDITORY
 1137	flap, flutter	aletear, batir las alas			flapping wings	Animals	AUDITORY
 1138	bang! (the heavy sound of e.g. a shotgun in the distance)	¡bang! (sonido pesado de p. ej. una escopeta a lo lejos)			bang	Basic actions and technology	AUDITORY
-1139	call of "dãrã'ku" (saracura bird)	canto de saracura (especie de ave)			bird species	Animals	AUDITORY
+1139	call of daraku (saracura bird)	canto de saracura (especie de ave)			bird species	Animals	AUDITORY
 1140	call of "dwi'dwi" (tesoureiro bird)	canto de "tesoureiro" (especie de ave)			bird species	Animals	AUDITORY
 1141	chant of the iriwa bird	canto del ave "iriwa"			bird species	Animals	AUDITORY
 1142	pf! (the blowing sound of animals like the wild pig and the ant-eater)	el sonido de soplido de animales como el cerdo salvaje y el oso hormiguero			animal blowing	Animals	AUDITORY
@@ -1147,7 +1147,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 1146	bang! (the sharp sound of e.g. hitting someone with a stick, shooting a revolver, etc.)	¡bang! (el sonido intenso de p. ej. golpear a alguien con un palo, disparar un revólver, etc.)			bang	Basic actions and technology	AUDITORY
 1147	splash! (sound of plunging into water)	sonido de zambullirse en el agua			splash	Motion	AUDITORY
 1148	splash! (the sound of a big stone being thrown into the water)	sonido de piedra grande siendo arrojada al agua			splash	Motion	AUDITORY
-1149	sound of the "twãtsysi'kjɛ" bird	sonido del ave "twãtsysi'kjɛ"			bird species	Animals	AUDITORY
+1149	sound of the "twatsysikje" bird	sonido del ave "twãtsysi'kjɛ"			bird species	Animals	AUDITORY
 1150	sound of a very large rock falling into the river	sonido de una roca muy grande cayendo al río			fall into water	Motion	AUDITORY
 1151	the whining sound of a wild piglet	el lloriqueo de una cría de cerdo salvaje			piglet whining	Animals	AUDITORY
 1152	the sound of rippling water	sonido del agua con ondas/olas			rippling water	The physical world	AUDITORY
@@ -2190,7 +2190,7 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2189	A purplish or violet color				purplish	Sense perception	VISUAL
 2190	To be seated erect, upright				seated upright	Motion	VISUAL
 2191	A continuous movement and sound of water pouring; any unbroken sensation of movement, such as a sensation of heat or burning that flows through one's body				water pouring	Motion	AUDITORY, VISUAL, INTERNAL STATE
-2192	A splitting or tearing sound or motion. Also describes the visual division of space by linear markings on a surface or by painting or scoring a surface				to split, to tear	Basic actions and technology	AUDITORY, VISUAL
+2192	A splitting or tearing sound or motion. Also describes the visual division of space by linear markings on a surface or by painting or scoring a surface or by painting or scoring a surface				to split, to tear	Basic actions and technology	AUDITORY, VISUAL
 2193	A pattern of striped lines				striped	Sense perception	VISUAL
 2194	The sound, movement or appearance of a sweeping action across a surface, such as a stream of water flowing across a riverbed, a pouring of liquid into a container, a jaguar licking its fur				sweeping action	Motion	AUDITORY
 2195	[...] the call of a swallow, said to express its happiness when rain occurs, or when it flies near waterfalls.				swallow call	Animals	AUDITORY
@@ -2736,7 +2736,6 @@ ID	ENGLISH	SPANISH	PORTUGUESE	NOTES	SIMPLIFIED	SEMANTIC FIELD	SENSORY CATEGORY
 2735		sonido de un choque			crash	Basic actions and technology	AUDITORY
 2736		sonido que comunica "nada"		Parece ser interjección. El ejemplo dice: "Nada", no muere.	nothing	Speech and language	?
 2737		sonido producido por un golpe			to hit	Basic actions and technology	AUDITORY
-2738		sonido que comunica "nada"		Parece ser interjección. El ejemplo dice: "Nada", la trampa no quiere agarrar al paujil.	nothing	Speech and language	?
 2739		sonido que produce el atrapar algo			catching	Basic actions and technology	VISUAL
 2740		sonido de una campana			bell	Basic actions and technology	AUDITORY
 2741		idea de ponerse tendido, tiezo, postrado			lying down and still	The body, Spatial relations	VISUAL
