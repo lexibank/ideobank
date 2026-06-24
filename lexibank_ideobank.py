@@ -46,8 +46,8 @@ class Dataset(BaseDataset):
                     Simplified=concept["SIMPLIFIED"],
                     SemanticField=concept["SEMANTIC FIELD"],
                     SensoryCategory=concept["SENSORY CATEGORY"],
-                    Concepticon_ID='',
-                    Concepticon_Gloss=''
+                    Concepticon_ID=concept.get("CONCEPTICON_ID", ""),
+                    Concepticon_Gloss=concept.get("CONCEPTICON_GLOSS", "")
             )
 
             if concept["ENGLISH"] == '':
